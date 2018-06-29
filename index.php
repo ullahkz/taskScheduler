@@ -191,7 +191,7 @@ if(file_exists($file_name)){
 	  		$operation1 = $artikel_data_export->getArtikelExportData();	 // Methods to generate 'import.default_articles_complete.csv' & 'import.default_article_categories.csv'
 	  		$operation3 = $artikel_data_export->getImageMinimal();		 // Methods to generate 'import.default_articles_images_url.csv'
 	  		$operation4 = $artikel_data_export->getArtikelStockInfo();   // Methods to generate 'import.default_article_in_stock.csv'
-	  	 // $operation5 = $artikel_data_export->getArtikelPreisUpdate(); // Methods to generate 'import.default_article_prices'
+	  	// $operation5 = $artikel_data_export->getArtikelPreisUpdate(); // Methods to generate 'import.default_article_prices'
 
 	  	}
 
