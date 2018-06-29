@@ -1,0 +1,8 @@
+UserIndex	CustomerID	TableIndex	ExternalID	BusinessFax	BusinessPhone	City	Company	CompleteSalutation	CostCenter	CountryISO	DateOfBirth	Department	EMail2	Fax	FirstName	LastName	MobilePhone	Phone	PostOfficeBox	PostOfficeBoxZip	SalutationCode	Street1	Suffix1	Suffix2	Suffix8	Suffix10	TaxId	TitleCode	Zip
+119871	0070203142	0	1			Darmstadt		Sehr geehrter Herr Pütter,		DEU	20.09.1930				Dieter	Pütter		06151661517			01	Langgässerweg 48							64285
+167317	4002546272	0	1			Olching		Sehr geehrte Frau Gnam,		DEU	07.02.1942				Helga	Gnam		08142488261			02	Hofmarkstr. 7							82140
+112908	4005387525	0	1			Birlenbach		Sehr geehrter Herr Wedlich,		DEU	27.06.1934			0643298187	Dietrich	Wedlich		0643298187			01	Zur Kleinheck 2						V	65626
+64089	4006072916	0	1			Lampertheim		Sehr geehrter Herr Nowok,		DEU	27.02.1952				Johann	Nowok					01	Kurt-Schumacher-Str. 8							68623
+160368	4006820788	0	1			Achim		Sehr geehrte Frau Hoffmüller,		DEU	13.01.1966				Sabine	Hoffmüller					02	Eschberg 4							28832
+167953	4007080594	0	1			Berlin		Sehr geehrter Herr Folte,		DEU	29.04.1954				Clemens	Folte					01	Erwin-Bock-Str. 14							12559
+166534	4007447299	0	1			Kerken		Sehr geehrter Herr Schmitz,		DEU	04.07.1944				Peter	Schmitz		02833572167			01	Alter Dyck 9							47647

@@ -1,0 +1,16 @@
+UserIndex	CustomerID	TableIndex	ExternalID	BusinessFax	BusinessPhone	City	Company	CompleteSalutation	CostCenter	CountryISO	DateOfBirth	Department	EMail2	Fax	FirstName	LastName	MobilePhone	Phone	PostOfficeBox	PostOfficeBoxZip	SalutationCode	Street1	Suffix1	Suffix2	Suffix8	Suffix10	TaxId	TitleCode	Zip
+44077	4000509752	0	1			Chemnitz		Sehr geehrter Herr Sakals,		DEU	11.02.1977			03518914294	Sven	Sakals	01727925656	03518914294			01	Bernsdorfer Str. 187							09126
+156645	4004989744	0	1			Saarbrücken		Sehr geehrter Herr Möbius,		DEU	10.11.1967				Torsten	Möbius		06814163348			01	Kalmanstr. 21							66113
+163978	4005918346	0	1			Dresden		Sehr geehrter Herr Weitkamp,		DEU	10.02.1963				Peter	Weitkamp					01	Beethovenstr. 7							01219
+62770	4005929254	0	1			Dresden		Sehr geehrter Herr Kaulfuß,		DEU	13.04.1973				Jens	Kaulfuß					01	Schönaer Str. 21							01259
+128231	4006367965	0	1			Gelsenkirchen		Sehr geehrte Frau Krüger,		DEU	19.12.1957				Caroline	Krüger		Kein Eintrag			02	Everhardstr. 5							45894
+168450	4006814884	0	1			Nußloch		Sehr geehrter Herr Hülsmann,		DEU	23.09.1955				Roland	Hülsmann					01	Hinter der Mühle 6							69226
+160599	4006845967	0	1			Schwäbisch Gmünd		Sehr geehrter Herr Haußer,		DEU	20.11.1951			07171979372	Wilhelm	Haußer					01	Haselbacher Weg 6							73527
+161294	4006905553	0	1			Krauchenwies		Sehr geehrter Herr Ohmacht,		DEU	06.04.1958				Rainer	Ohmacht		075767612			01	Talbach 3							72505
+161295	4007078124	0	1			Bad Essen		Sehr geehrter Herr Hüsemann,		DEU	26.04.1938				Gerhard	Hüsemann		054721487			01	Aspeloh 6							49152
+161717	4007173468	0	1			Dorsten		Sehr geehrter Herr Futschek,		DEU	18.12.1957				Alfred	Futschek					01	Borkener Str. 65							46284
+162508	4007285445	0	1			Syke		Sehr geehrter Herr Suling,		DEU	08.04.1972				Arendt	Suling					01	Neue Str. 4							28857
+162786	4007297245	0	1			Tuttlingen		Sehr geehrter Herr Kohler,		DEU	12.12.1968				Harald	Kohler					01	Ehrenbergstr. 43							78532
+169896	4007317278	0	1			Nieheim		Sehr geehrter Herr Linsen,		DEU	14.09.1960				Georg	Linsen					01	In den langen Breiten 16							33039
+40200	4007319294	0	1			Tuttlingen		Sehr geehrter Herr Ilg,		DEU	03.09.1953			0746115440	Ulrich	Ilg		074616681			01	Fürstensteinweg 27							78532
+170597	4007625827	0	1			Pöhl		Sehr geehrter Herr Ehlert,		DEU	30.09.1972				Rico	Ehlert					01	Jocketa-Bahnhofstr. 25							08543

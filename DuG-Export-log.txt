@@ -1,0 +1,24 @@
+2018-06-28	12:30:01	customerimport.1 erzeugt um 12:24:50  2018-06-28	12:30:01	directimport.1 erzeugt um 12:24:44  
+2018-06-28	12:33:45	customerimport.1 erzeugt um 12:24:50  2018-06-28	12:33:45	directimport.1 erzeugt um 12:24:44  
+2018-06-28	12:34:56	customerimport.1 erzeugt um 12:24:50  2018-06-28	12:34:56	directimport.1 erzeugt um 12:24:44  
+2018-06-28	12:39:42	customerimport.1 erzeugt um 12:24:50  2018-06-28	12:39:42	directimport.1 erzeugt um 12:24:44  
+2018-06-28	12:40:29	customerimport.1 erzeugt um 12:24:50  2018-06-28	12:40:29	directimport.1 erzeugt um 12:24:44  
+2018-06-28	12:41:06	customerimport.1 erzeugt um 12:24:50  2018-06-28	12:41:06	directimport.1 erzeugt um 12:24:44  
+2018-06-28	12:41:28	customerimport.1 erzeugt um 12:24:50  2018-06-28	12:41:28	directimport.1 erzeugt um 12:24:44  
+2018-06-28	12:41:51	customerimport.1 erzeugt um 12:24:50  2018-06-28	12:41:51	directimport.1 erzeugt um 12:24:44  
+2018-06-28	12:41:55	customerimport.1 erzeugt um 12:24:50  2018-06-28	12:41:55	directimport.1 erzeugt um 12:24:44  
+2018-06-28	12:42:02	customerimport.1 erzeugt um 12:24:50  2018-06-28	12:42:02	directimport.1 erzeugt um 12:24:44  
+2018-06-28	12:42:45	customerimport.1 erzeugt um 12:40:43  2018-06-28	12:42:45	customerimport.2 erzeugt um 12:24:50  2018-06-28	12:42:45	directimport.1 erzeugt um 12:40:38  2018-06-28	12:42:45	directimport.2 erzeugt um 12:24:44  
+2018-06-28	12:44:21	customerimport.1 erzeugt um 12:40:43  2018-06-28	12:44:21	customerimport.6 erzeugt um 12:39:42  2018-06-28	12:44:21	directimport.1 erzeugt um 12:40:38  2018-06-28	12:44:21	directimport.6 erzeugt um 12:39:38  
+2018-06-28	12:49:33	customerimport.1 erzeugt um 12:40:43  2018-06-28	12:49:33	customerimport.6 erzeugt um 12:39:42  2018-06-28	12:49:33	directimport.1 erzeugt um 12:40:38  2018-06-28	12:49:33	directimport.6 erzeugt um 12:39:38  
+2018-06-28	12:50:33	customerimport.1 erzeugt um 12:40:43  2018-06-28	12:50:33	customerimport.6 erzeugt um 12:39:42  2018-06-28	12:50:33	directimport.1 erzeugt um 12:40:38  2018-06-28	12:50:33	directimport.6 erzeugt um 12:39:38  
+2018-06-28	12:52:10	customerimport.1 erzeugt um 12:40:43  2018-06-28	12:52:10	customerimport.6 erzeugt um 12:39:42  2018-06-28	12:52:10	directimport.1 erzeugt um 12:40:38  2018-06-28	12:52:10	directimport.6 erzeugt um 12:39:38  
+2018-06-28	12:54:43	customerimport.1 erzeugt um 12:40:43  2018-06-28	12:54:43	customerimport.6 erzeugt um 12:39:42  2018-06-28	12:54:43	directimport.1 erzeugt um 12:40:38  2018-06-28	12:54:43	directimport.6 erzeugt um 12:39:38  
+2018-06-28	12:58:56	customerimport.1 erzeugt um 12:40:43  2018-06-28	12:58:56	customerimport.6 erzeugt um 12:39:42  2018-06-28	12:58:56	directimport.1 erzeugt um 12:40:38  2018-06-28	12:58:56	directimport.6 erzeugt um 12:39:38  
+2018-06-28	12:59:18	customerimport.1 erzeugt um 12:40:43  2018-06-28	12:59:18	customerimport.6 erzeugt um 12:39:42  2018-06-28	12:59:18	directimport.1 erzeugt um 12:40:38  2018-06-28	12:59:18	directimport.6 erzeugt um 12:39:38  
+2018-06-28	13:02:44	customerimport.1 erzeugt um 12:40:43  2018-06-28	13:02:44	customerimport.6 erzeugt um 12:39:42  2018-06-28	13:02:44	directimport.1 erzeugt um 12:40:38  2018-06-28	13:02:44	directimport.6 erzeugt um 12:39:38  
+2018-06-28	13:12:13	customerimport.1 erzeugt um 12:40:43  2018-06-28	13:12:13	customerimport.6 erzeugt um 12:39:42  2018-06-28	13:12:13	directimport.1 erzeugt um 12:40:38  2018-06-28	13:12:13	directimport.6 erzeugt um 12:39:38  
+2018-06-28	14:09:16	customerimport.1 erzeugt um 12:40:43  2018-06-28	14:09:16	customerimport.6 erzeugt um 12:39:42  2018-06-28	14:09:16	directimport.1 erzeugt um 12:40:38  2018-06-28	14:09:16	directimport.6 erzeugt um 12:39:38  
+2018-06-28	14:10:15	customerimport.1 erzeugt um 12:40:43  2018-06-28	14:10:15	customerimport.6 erzeugt um 12:39:42  2018-06-28	14:10:15	directimport.1 erzeugt um 12:40:38  2018-06-28	14:10:15	directimport.6 erzeugt um 12:39:38  
+2018-06-28	17:13:23	customerimport.1 erzeugt um 16:36:13  2018-06-28	17:13:23	directimport.1 erzeugt um 12:40:38  
+2018-06-29	12:35:21	No data found to export!

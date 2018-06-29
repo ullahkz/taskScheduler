@@ -1,0 +1,66 @@
+UserIndex	CustomerID	TableIndex	ExternalID	BusinessFax	BusinessPhone	City	Company	CompleteSalutation	CostCenter	CountryISO	DateOfBirth	Department	EMail2	Fax	FirstName	LastName	MobilePhone	Phone	PostOfficeBox	PostOfficeBoxZip	SalutationCode	Street1	Suffix1	Suffix2	Suffix8	Suffix10	TaxId	TitleCode	Zip
+168773	0031705254	0	1			Koserow		Sehr geehrter Herr Feest,		DEU	09.11.1939				Josef	Feest		038375242777			01	Am Sandfeld 5 a							17459
+159676	0031730057	0	1			Hamburg		Sehr geehrter Herr Lünzmann,		DEU	19.09.1942				Holger	Lünzmann		040757973			01	Georg-Wilhelm-Str. 123							21107
+3050	0032081390	0	1			Solingen		Sehr geehrter Herr Dr. med. Fischbach,		DEU	07.06.1959			021222609179	Thomas	Fischbach	01626971409	021222609150			01	Focher Str. 20						3	42719
+68864	0032488727	0	1			Heidelberg		Sehr geehrter Herr Schulze,		DEU	15.01.1948				Erwin	Schulze					01	Mannheimer Str. 287							69123
+167344	0032526972	0	1			Möglingen		Sehr geehrter Herr Hähnel,		DEU	10.06.1935				Erhard	Hähnel		07141482021			01	Meisenweg 13							71696
+141982	0068418496	0	1			Gaiberg		Sehr geehrter Herr Obenauer,		DEU	16.10.1935				Paul Wolfgang	Obenauer		0622347567			01	Finkenstr. 4							69251
+55401	0069449255	0	1			Lübeck		Sehr geehrte Frau Kunde,		DEU	21.02.1964				Jutta	Kunde		0451893578			02	Hamburger Str. 67							23558
+159080	0078776847	0	1			Ludwigshafen		Sehr geehrter Herr Lunova,		DEU	22.09.1948				Robert	Lunova		06216717571			01	Alter Frankenthaler Weg 41							67071
+125909	4000132659	0	1			Minden		Sehr geehrter Herr John,		DEU	29.05.1942				Helmut	John		057163364			01	Wintgensstr. 6							32425
+64016	4000229029	0	1			Schwerin		Sehr geehrter Herr Dr. Jarmatz,		DEU	13.01.1929				Hans-Jürgen	Jarmatz					01	Wendelstorfer Weg 10						D	19057
+68699	4000261046	0	1			Glückstadt		Sehr geehrter Herr Wollert,		DEU	15.08.1953				Peter	Wollert					01	Anckenstr. 11							25348
+66378	4000279000	0	1			Everswinkel		Sehr geehrter Herr Gremlitza,		DEU	23.05.1970				Michael	Gremlitza					01	Mörikestr. 10							48351
+31970	4000324407	0	1			Lörrach		Sehr geehrter Herr Dr. Wiedemann,		DEU	02.01.1964				Frank	Wiedemann		07621168841			01	Zielgaß 7						D	79539
+128246	4000332489	0	1			Chemnitz		Sehr geehrter Herr Zinke,		DEU	29.05.1951				Gunnar	Zinke		037191190162			01	Steinwiese 76							09116
+165598	4000378714	0	1			Marienberg		Sehr geehrte Frau Tippmann,		DEU	23.05.1982				Anja	Tippmann		03735609460			02	Mooshaide 7							09496
+0	4000491930	0	1			RIEUX MINERVOIS		Sehr geehrter Herr Wirth,		FRA					Peter-Rudolph	Wirth	017687010405				01	15 rue Ronsard							11160
+34026	4000504347	0	1			Haan		Sehr geehrter Herr Breuer,		DEU	27.03.1943			0210460763	Helmut	Breuer		0210460763			01	Prälat-Marschall-Str. 24 b							42781
+136391	4000763833	0	1			Winnenden		Sehr geehrter Herr Bohn,		DEU	15.07.1971				Daniel	Bohn		01736628510			01	Oleanderweg 11							71364
+55346	4001055222	0	1			Eggingen		Sehr geehrter Herr Laubender,		DEU	27.12.1937				Armin	Laubender		077465222			01	Anton-Hilbert-Str. 11							79805
+154791	4001066229	0	1			Meißen		Sehr geehrter Herr Kurzmann,		DEU	06.02.1944				Jürgen	Kurzmann		03521457277			01	Am Hohen Gericht 2							01662
+160662	4001094341	0	1			Koserow		Sehr geehrter Herr Sindermann,		DEU	15.02.1981			038375226274	Jan Michael	Sindermann		03837524647			01	Feldstr. 47							17459
+58546	4001107462	0	1			Bautzen		Sehr geehrter Herr Jüttner,		DEU	10.03.1944			03584136477	Horst	Jüttner		035916794339			01	Löbauer Str. 35							02625
+165599	4001696218	0	1			Leverkusen		Sehr geehrter Herr Guhr,		DEU	10.09.1954				Hartmut	Guhr	015158238806	021465929			01	Gisbert-Cremer-Str. 69							51373
+0	4002193544	0	1			Mainz		Sehr geehrter Herr Dr. Majocchi,		DEU	12.02.1937				Ernesto	Majocchi		0613171487			01	Theodor-Storm-Weg 33						D	55127
+0	4002462405	0	1			Biberach an der Riß		Sehr geehrter Herr Traub,		DEU	03.04.1940				Martin	Traub		073512760			01	Weißhauptstr. 5							88400
+68204	4002556475	0	1			Idstein		Sehr geehrter Herr Niere,		DEU	11.06.1948				Peter	Niere		06921971457			01	Erfurter Str. 6							65510
+65577	4002685683	0	1			Wandlitz		Sehr geehrter Herr Garkisch,		DEU	07.03.1950			033397295827	Günter	Garkisch		01708881878			01	Prenzlauer Str. 39							16348
+67034	4003884163	0	1			Schleiz		Sehr geehrter Herr Sippel,		DEU	23.09.1961			03658208949	Jörg	Sippel					01	Nordstr. 5							07907
+169409	4004067268	0	1			Uttenweiler		Sehr geehrter Herr Ringeis,		DEU	05.01.1951				Karl	Ringeis		073571582			01	Bussenblick 5							88524
+167342	4004251987	0	1			Löwenberger Land		Sehr geehrter Herr Leichsenring,		DEU	12.12.1965				Albrecht	Leichsenring					01	Liebenwalder Str. 8 a							16775
+58854	4004348349	0	1			Mücheln		Sehr geehrter Herr Hoffmann,		DEU	04.08.1951				Reinhard	Hoffmann					01	Kastanienweg 14						V	06249
+58738	4004757931	0	1			Backnang		Sehr geehrter Herr Schüle,		DEU	17.01.1976				Markus	Schüle		0719161576			01	Kinzigstr. 6							71522
+170872	4005261571	0	1			Aukrug		Sehr geehrter Herr Busekros,		DEU	01.03.1960				Achim	Busekros		04873 203760			01	Böker Stieg 19							24613
+166746	4005286992	0	1			Garbsen		Sehr geehrte Frau Wolter,		DEU	28.10.1974				Janine	Wolter					02	Kochslandweg 11 a							30823
+65458	4006117343	0	1			Selb		Sehr geehrte Frau Panhans,		DEU	30.01.1973				Sabina	Panhans		01777063355			02	Ludwigsmühle 8							95100
+146949	4006120874	0	1			Neundorf		Sehr geehrter Herr Franz,		DEU	15.03.1984				Daniel	Franz		036651797625			01	An der Kuppel 8							07356
+143154	4006391938	0	1			Oberthal		Sehr geehrter Herr Hans,		DEU	07.08.1975				Siegfried	Hans		01607666242			01	Vor der Kipp 29							66649
+156347	4006459857	0	1			Buxtehude		Sehr geehrter Herr Feth,		DEU	14.03.1981				Mathias	Feth					01	Eckdahl 57 c							21614
+154762	4006473920	0	1			Magdeburg		Sehr geehrter Herr Seelig,		DEU	20.08.1952				Dittmar	Seelig		03916222288			01	Kleiner Rosenweg 2							39122
+156988	4006491839	0	1			Hamburg		Sehr geehrter Herr Pröbsting,		DEU	05.08.1960				Martin	Pröbsting		0404804846			01	Hegestr. 3							20251
+159055	4006504193	0	1			Kenn		Sehr geehrter Herr Tyszak,		DEU	23.11.1961				Manfred	Tyszak		065022421			01	Im Ecken 11							54344
+160977	4006571333	0	1			Wolfsburg		Sehr geehrter Herr Thomaneck,		DEU	15.07.1960				Frank	Thomaneck					01	Rabenbergstr. 99							38444
+156922	4006584720	0	1			Bleckhausen		Sehr geehrter Herr Bell,		DEU	23.04.1954				Franz-Rudolf	Bell					01	Reihenpesch 3							54570
+156227	4006600775	0	1			Weinsheim		Sehr geehrte Frau Templin,		DEU	04.11.1961				Marina	Templin	01602801714	06758969742			02	Sponheimer Str. 48							55595
+159799	4006799204	0	1			Hamminkeln		Sehr geehrter Herr Steff,		DEU	25.03.1951				Manfred	Steff		028524589			01	Krummer Weg 2 a							46499
+160544	4006840597	0	1			Gotha		Sehr geehrter Herr Pietsch,		DEU	10.04.1961				Karsten	Pietsch					01	18.-März-Str. 16							99867
+161367	4006852752	0	1			Ohrdruf		Sehr geehrter Herr Mitlöhner,		DEU	29.06.1964				Toralf	Mitlöhner					01	Strengestr. 25							99885
+162382	4007149628	0	1			Berlin		Sehr geehrter Herr Bissigkummer,		DEU	05.11.1939				Adolf	Bissigkummer					01	Schöllkrautstr. 42 c							13503
+162153	4007150982	0	1			Rudolstadt		Sehr geehrter Herr Möller,		DEU	01.09.1966				Jens	Möller					01	Ratsgasse 3							07407
+170871	4007225000	0	1			Mötzing		Sehr geehrter Herr Jerchel,		DEU	04.02.1983				Stefan	Jerchel					01	St.-Markus-Str. 7							93099
+165851	4007255628	0	1			Fürstenberg		Sehr geehrter Herr Siewert,		DEU	29.06.1967				Carsten	Siewert					01	Schliemannstr. 7							16798
+162122	4007256547	0	1			Pforzheim		Sehr geehrter Herr Schulz,		DEU	10.01.1984				Michael	Schulz					01	Hohlohstr. 18 c							75179
+162525	4007285481	0	1			Bamberg		Sehr geehrter Herr Huber,		DEU	18.07.1965				Gerd	Huber					01	Am Hahnenweg 22							96049
+162639	4007290652	0	1			Hemau		Sehr geehrter Herr Kammerl,		DEU	02.06.1961			094913615	Anton	Kammerl		094912651			01	Thonhauser Str. 5							93155
+162678	4007292366	0	1			Pirmasens		Sehr geehrter Herr Wink,		DEU	09.05.1984				Steven	Wink		017632018489			01	Hochwaldstr. 63							66954
+169918	4007364706	0	1			Bielefeld		Sehr geehrter Herr Kaiser,		DEU	26.08.1971				Jörg	Kaiser					01	Detmolder Str. 679							33699
+166576	4007433945	0	1			Bamberg		Sehr geehrter Herr Hassfurther,		DEU	24.08.1962				Karl-Heinz	Hassfurther					01	Andreas-Hofer-Str. 3							96049
+170821	4007507786	0	1			Markkleeberg		Sehr geehrte Frau Kirchberger,		DEU	30.07.1945				Antoanetta	Kirchberger					02	Käthe-Kollwitz-Str. 25							04416
+168112	4007568513	0	1			Freiburg		Sehr geehrter Herr Steinbrich,		DEU	22.10.1970				Markus	Steinbrich		07617077947			01	Hummelstr. 13							79100
+167178	4007578012	0	1			Tholey		Sehr geehrter Herr Schmidt,		DEU	17.07.1989				Jan	Schmidt					01	Talstr. 58							66636
+170662	4007626782	0	1			Berlin		Sehr geehrter Herr Pretzsch,		DEU	14.06.1953				Rainer	Pretzsch		0309826894			01	Bahnhofstr. 27							13055
+170737	4007628147	0	1			Stolberg		Sehr geehrter Herr Hollmann,		DEU	09.04.1958				Dieter	Hollmann					01	Schützheide 62							52223
+170785	4007628637	0	1			Arholzen		Sehr geehrter Herr Schmidt,		DEU	20.05.1995				Marc	Schmidt					01	Hauptstr. 43							37627
+0	4007629761	0	1			Berlin		Sehr geehrter Herr Hartmann,		DEU	09.02.1971				Ingo	Hartmann					01	Holsteinische Str. 16							10717
+170867	4007629850	0	1			Blankenburg		Sehr geehrte Frau Weyrauch,		DEU	23.03.1956				Ute	Weyrauch					02	An der Frühlingswiese 2							38889

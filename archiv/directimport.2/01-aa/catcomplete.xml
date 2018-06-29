@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<categories>
+<nomenucategories>
+</nomenucategories>
+<menucategories>
+<category index="000059" name="Schnäppchen Liste" type="cat">
+<imgclosed>empty.gif</imgclosed>
+<imgopen>empty.gif</imgopen>
+<imgselected>empty.gif</imgselected>
+<hide>y</hide>
+<filter>n</filter>
+</category>
+<category index="000061" name="Sammler Highlights" type="cat">
+<imgclosed>empty.gif</imgclosed>
+<imgopen>empty.gif</imgopen>
+<imgselected>empty.gif</imgselected>
+<hide>y</hide>
+<longdescr>Freude schenken, Werte sammeln! Ob eleganter Schmuck, seltene Modelle, Uhren und Anhänger oder exklusive Sammlerstücke, Primus hält für jeden die passende Geschenkidee für Weihnachten bereit.</longdescr>
+<filter>n</filter>
+</category>
+<category index="000135" name="Alles unter 10" type="cat">
+<imgclosed>empty.gif</imgclosed>
+<imgopen>empty.gif</imgopen>
+<imgselected>empty.gif</imgselected>
+<hide>y</hide>
+<filter>n</filter>
+</category>
+<category index="000163" name="Happyhour" type="cat">
+<imgclosed>empty.gif</imgclosed>
+<imgopen>empty.gif</imgopen>
+<imgselected>empty.gif</imgselected>
+<hide>y</hide>
+<filter>n</filter>
+</category>
+<category index="000001" name="Briefmarken" type="cat">
+<imgoverview>prrimus-cat-briefmarken_gross.jpg</imgoverview>
+<trsearch>Briefmarken kaufen</trsearch>
+<filter>n</filter>
+<category index="000004" name="Altdeutschland" type="cat">
+<longdescr>Die altdeutschen Briefmarkenausgaben sind weltweit einzigartig: Durch die Vielzahl der damals auf deutschem Boden existierenden Herzogtümer, Fürstentümer und Königreiche, bildete sich Mitte des 19. Jahrhunderts eine beeindruckende Markenlandschaft heraus. Die Ausgaben der Kleinstaaten gehören zu den begehrtesten Ausgaben überhaupt.</longdescr>
+<trsearch>Briefmarken Altdeutschland</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ3</filter1>
+<category index="000254" name="Baden" type="cat">
+<filter>n</filter>
+</category>
+<category index="000255" name="Bayern" type="cat">
+<filter>n</filter>
+</category>
+<category index="000256" name="Bergedorf" type="cat">
+<filter>n</filter>
+</category>
+<category index="000257" name="Braunschweig" type="cat">
+<filter>n</filter>
+</category>
+<category index="000259" name="Hamburg" type="cat">
+<filter>n</filter>
+</category>
+<category index="000260" name="Hannover" type="cat">
+<filter>n</filter>
+</category>
+<category index="000261" name="Helgoland" type="cat">
+<filter>n</filter>
+</category>
+<category index="000262" name="Lübeck" type="cat">
+<filter>n</filter>
+</category>
+<category index="000263" name="Mecklenburg-Schwerin" type="cat">
+<filter>n</filter>
+</category>
+<category index="000264" name="Mecklenburg-Strelitz" type="cat">
+<filter>n</filter>
+</category>
+<category index="000265" name="Oldenburg" type="cat">
+<filter>n</filter>
+</category>
+<category index="000267" name="Sachsen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000269" name="Thurn und Taxis" type="cat">
+<filter>n</filter>
+</category>
+<category index="000270" name="Württemberg" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000005" name="Deutsches Reich" type="cat">
+<longdescr>Die Briefmarken - Ausgaben des Deutschen Reich von 1872 - 1945 sind gesucht wie selten zuvor. Setzen Sie mit unseren Angeboten auf beste Qualität. Sammeln Sie wahre Schätze, die immer schwerer zu finden sind.</longdescr>
+<trsearch>Briefmarken Deutsches Reich</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ3</filter1>
+<category index="000019" name="Kaiserreich 1872-1918" type="cat">
+<longdescr>"Des Kaisers neue Marken"Sie waren nach einem Entwurf des Grafikers Heinrich G. Schilling im kombinierten Buch- und Prägedruck produziert worden und mussten, da die Währungsreform noch auf sich warten ließ, sowohl in Taler- als auch Guldenwährung ausgegeben werden - die sog. »Kleinen Brustschilde«. Nur ein halbes Jahr später wurde ihr Erscheinungsbild verändert: Auf Anraten von Heraldikern und Historikern ersetzte man den bis dahin im Brustschild geprägten preußischen Adler durch das Hohenzollern-Wappen (»Große Brustschilde«). Im Rahmen der Währungsreform verloren diese Marken - mit Ausnahme der gängigsten Groschen-Wertstufen, die noch bis 31.12. aufgebraucht werden konnten zum 1.1. 1875 ihre Gültigkeit. Die Brustschild-Philatelie steht bei Sammlern im In- und Ausland extrem hoch im Kurs. Das nimmt nicht Wunder: Die Stücke sind bis zu 140 Jahre alt, zeitlos schön, relativ überschaubar und markieren eine besondere Zäsur in der nationalen (wie auch internationalen!) Geschichte.</longdescr>
+<trsearch>briefmarken-kaiserreich</trsearch>
+<filter>n</filter>
+</category>
+<category index="000021" name="Weimarer Republik 1919-1932" type="cat">
+<filter>n</filter>
+</category>
+<category index="000022" name="Drittes Reich 1933-1945" type="cat">
+<filter>n</filter>
+</category>
+<category index="000243" name="Dienstmarken 1903-1944" type="cat">
+<filter>n</filter>
+</category>
+<category index="000241" name="Posten &amp; Lots" type="cat">
+<filter>n</filter>
+</category>
+<category index="000020" name="Inflation" type="cat">
+<longdescr>- Gesucht wie nie zuvor: Die Briefmarken aus der Zeit der rasanten Geldentwertung, der Inflation 1920-1923!  In dieser Zeit werden Geldscheine innerhalb kürzester Zeit durch höhere Werte ersetzt. Dies gilt auch für Briefmarken. Die Notausgaben der Hochinflation (24.08-30.11.1923) steigen sogar bis in den Milliardenbereich an! Heute sind einige dieser zeithistorischen Sammlerstücke sehr gesuchte Raritäten und machen Sammlungen zu wertvollen Geldanlagen. Viele Besonderheiten warten noch auf ihre Entdeckung und das Material wird immer knapper. Steigen Sie jetzt günstig in dieses Sammelgebiet ein und sichern Sie sich Werte für die Zukunft!</longdescr>
+<trsearch>briefmarken-inflation</trsearch>
+<filter>n</filter>
+</category>
+<category index="000023" name="Sonderausgaben" type="cat">
+<imgclosed>empty.gif</imgclosed>
+<imgopen>empty.gif</imgopen>
+<imgselected>empty.gif</imgselected>
+<hide>y</hide>
+<filter>n</filter>
+</category>
+<category index="000024" name="Saar" type="cat">
+<imgclosed>empty.gif</imgclosed>
+<imgopen>empty.gif</imgopen>
+<imgselected>empty.gif</imgselected>
+<hide>y</hide>
+<filter>n</filter>
+</category>
+<category index="000242" name="Blockausgaben" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000288" name="Deutsche Auslandspostämter" type="cat">
+<filter>n</filter>
+<category index="000290" name="Deutsche Post in Marokko" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+<category index="000292" name="Sammlungen &amp; Lots" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000293" name="Deutsche Kolonien" type="cat">
+<filter>n</filter>
+<category index="000301" name="Marshall-Inseln" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000305" name="Deutsche Besetzungsausgaben 1914-1918" type="cat">
+<filter>n</filter>
+<category index="000356" name="Militärverwaltung in Rumänien" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+</category>
+<category index="000306" name="Deutsche Abstimmungsgebiete" type="cat">
+<filter>n</filter>
+<category index="000360" name="Oberschlesien" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000307" name="Deutsche Besetzungsausgaben 1939-1945" type="cat">
+<filter>n</filter>
+<category index="000364" name="Albanien" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+<category index="000365" name="Elsass" type="cat">
+<filter>n</filter>
+</category>
+<category index="000366" name="Estland" type="cat">
+<filter>n</filter>
+</category>
+<category index="000368" name="Kanalinseln" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+<category index="000369" name="Kotor" type="cat">
+<filter>n</filter>
+</category>
+<category index="000370" name="Kurland" type="cat">
+<filter>n</filter>
+</category>
+<category index="000372" name="Lettland" type="cat">
+<filter>n</filter>
+</category>
+<category index="000373" name="Litauen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000374" name="Lothringen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000375" name="Luxemburg" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+<category index="000380" name="Serbien" type="cat">
+<filter>n</filter>
+</category>
+<category index="000382" name="Zante" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+<category index="000384" name="Sammlungen &amp; Lots" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+</category>
+<category index="000308" name="Sonstige Gebiete" type="cat">
+<filter>n</filter>
+<category index="000387" name="Freie Stadt Danzig" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+<category index="000389" name="Böhmen und Mähren" type="cat">
+<filter>n</filter>
+</category>
+<category index="000390" name="Generalgouvernement" type="cat">
+<filter>n</filter>
+</category>
+<category index="000391" name="Sudetenland" type="cat">
+<filter>n</filter>
+</category>
+<category index="000392" name="Feldpostmarken" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000006" name="Alliierte Besatzung" type="cat">
+<longdescr>Von der "Stunde Null" (1945) bis zum Entstehen der BRD und DDR eines der interessantesten Gebiete Deutschlands. Die verschiedenen Besatzungszonen bieten sich hervorragend zur Spezialisierung an.  Abarten und kleine Auflagen sorgen für eine hohe Nachfrage und eine solide Anlage mit guten Wertsteigerungschancen.</longdescr>
+<trsearch>Briefmarken Aliierte Besatzung</trsearch>
+<filter>n</filter>
+<category index="000025" name="Kontrollrat" type="cat">
+<imgclosed>empty.gif</imgclosed>
+<imgopen>empty.gif</imgopen>
+<imgselected>empty.gif</imgselected>
+<hide>y</hide>
+<filter>n</filter>
+</category>
+<category index="000027" name="Bizone" type="cat">
+<filter>n</filter>
+</category>
+<category index="000245" name="Posten &amp; Lots" type="cat">
+<filter>n</filter>
+</category>
+<category index="000346" name="Gemeinschaftsausgaben" type="cat">
+<filter>n</filter>
+<category index="000347" name="Marken &amp; Sätze" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000349" name="Berlin und Brandenburg" type="cat">
+<filter>n</filter>
+</category>
+<category index="000028" name="Sowjetische Zone" type="cat">
+<filter>n</filter>
+<category index="000338" name="Mecklenburg-Vorpommern" type="cat">
+<filter>n</filter>
+</category>
+<category index="000340" name="Ost-Sachsen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000341" name="Provinz Sachsen" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000026" name="Französische Zone" type="cat">
+<filter>n</filter>
+<category index="000331" name="Allgemeine Ausgaben" type="cat">
+<filter>n</filter>
+</category>
+<category index="000334" name="Baden" type="cat">
+<filter>n</filter>
+</category>
+<category index="000335" name="Rheinland-Pfalz" type="cat">
+<filter>n</filter>
+</category>
+<category index="000336" name="Württemberg-Hohenzollern" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000244" name="Amerikanische und Britische Zone" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000051" name="BRD" type="cat">
+<longdescr>Das Briefmarken - Sammelgebiet BRD ist reich an gesuchten Klassikern und faszinierenden Neuerscheinungen, hochkarätige Motive gehen Hand in Hand mit bestem Wertpotential. Zu den Raritäten des Sammelgebietes zählen die "Gscheidle- und die Hepburn- Marke", die, wenn sie auf Auktionen angeboten werden, anderen Marken die Show stehlen.</longdescr>
+<trsearch>Briefmarken Deutschland</trsearch>
+<filter>n</filter>
+<category index="000052" name="Frühausgaben" type="cat">
+<filter>n</filter>
+</category>
+<category index="000053" name="Jahrgänge" type="cat">
+<filter>n</filter>
+</category>
+<category index="000158" name="Posten &amp; Lots" type="cat">
+<longdescr>Das Briefmarken - Sammelgebiet BRD ist reich an gesuchten Klassikern und faszinierenden Neuerscheinungen, hochkarätige Motive gehen Hand in Hand mit bestem Wertpotential. Zu den Raritäten des Sammelgebietes zählen die "Gscheidle- und die Hepburn- Marke", die, wenn sie auf Auktionen angeboten werden, anderen Marken die Show stehlen.</longdescr>
+<filter>n</filter>
+</category>
+<category index="000248" name="Kiloware" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000007" name="DDR" type="cat">
+<longdescr>Das abgeschlossene Briefmarken - Sammelgebiet "DDR" (1949-1990) hat in den letzten Jahren immer mehr begeisterte Sammler gefunden. Auch die große Nachfrage aus China verknappt das vorhandene Material. Ohnehin schon kleine Auflagen werden immer gesuchter. Auch schreitet die Spezialisierung des Sammelgebietes immer weiter voran. Die Wertaussichten werden zudem immer erfreulicher! Sichern Sie sich jetzt noch günstig Material und schließen Sie Ihre Lücken!</longdescr>
+<trsearch>Briefmarken DDR</trsearch>
+<filter>n</filter>
+<category index="000030" name="Frühausgaben" type="cat">
+<filter>n</filter>
+</category>
+<category index="000031" name="Jahrgänge" type="cat">
+<filter>n</filter>
+</category>
+<category index="000032" name="Sonderausgaben" type="cat">
+<filter>n</filter>
+</category>
+<category index="000247" name="Posten &amp; Lots" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000008" name="Berlin" type="cat">
+<longdescr>Die Metropole ist Symbol für den Wandel in Deutschland. Das abgeschlossene Briefmarken - Sammelgebiet Berlin (1948-1990), welches 1948 mit dem begehrten Schwarzaufdruck beginnt, bietet sich auch hervorragend als Kapitalanlage an. Aufgrund der kleinen Auflagenhöhen äußerst beliebt und mit sehr guten Wertsteigerungschancen ein favorisiertes Sammelgebiet.</longdescr>
+<trsearch>Briefmarken Berlin</trsearch>
+<filter>n</filter>
+<category index="000033" name="Frühausgaben" type="cat">
+<filter>n</filter>
+</category>
+<category index="000034" name="Jahrgänge" type="cat">
+<filter>n</filter>
+</category>
+<category index="000035" name="Sonderausgaben" type="cat">
+<filter>n</filter>
+</category>
+<category index="000322" name="Sammlungen &amp; Lots" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000246" name="Saarland" type="cat">
+<filter>n</filter>
+</category>
+<category index="000013" name="Posten, Kollektionen" type="cat">
+<longdescr>Beliebt ohne Ende sind Sammlungen, Restposten und andere Zusammenstellungen. Unsere Einkäufer sorgen für eine breite Vielfalt. "Stöbern und entdecken" lautet hier die Devise! Nicht selten sind große Funde möglich! Hier tut sich ein wahres Briefmarken-Mekka auf!</longdescr>
+<filter>n</filter>
+<category index="000050" name="Sammlungen" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000010" name="Österreich" type="cat">
+<longdescr>Die Briefmarken aus Österreich sind für deutsche Sammler das beliebteste Sammelgebiet neben Deutschland. Die Vielfältigkeit des Sammelgebietes wird auf der ganzen Welt gelobt. Der Ideenreichtum der Österreicher kennt keine Grenzen - man betrachte die herrlichen Briefmarken - Ausgaben: Swarovski-Block, Stickerei-Marken oder auch das neue Trendgebiet der Privatmarken.</longdescr>
+<trsearch>Briefmarken Österreich</trsearch>
+<filter>n</filter>
+<category index="000014" name="Frühausgaben" type="cat">
+<longdescr>Eine lange Historie, herrliche Ausgaben, niedrige Auflagen... ein Gebiet an der Spitze der Beliebtheitsskala!</longdescr>
+<trsearch>Österreich-Briefmarken-2-Republik</trsearch>
+<filter>n</filter>
+</category>
+<category index="000015" name="Jahrgänge" type="cat">
+<filter>n</filter>
+</category>
+<category index="000252" name="Posten &amp; Lots" type="cat">
+<filter>n</filter>
+</category>
+<category index="000323" name="Kaisertum 1850-1866" type="cat">
+<filter>n</filter>
+</category>
+<category index="000249" name="Kaiserreich 1867-1918" type="cat">
+<filter>n</filter>
+</category>
+<category index="000324" name="Republik Deutsch-Österreich 1918-1921" type="cat">
+<filter>n</filter>
+</category>
+<category index="000250" name="1. Republik 1922-1937" type="cat">
+<filter>n</filter>
+</category>
+<category index="000251" name="2. Republik 1945-heute" type="cat">
+<filter>n</filter>
+</category>
+<category index="000326" name="Lombardei und Venetien" type="cat">
+<filter>n</filter>
+</category>
+<category index="000327" name="Österreichische Post auf Kreta" type="cat">
+<filter>n</filter>
+</category>
+<category index="000329" name="Bosnien und Herzegowina" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000055" name="Schweiz" type="cat">
+<imgclosed>empty.gif</imgclosed>
+<imgopen>empty.gif</imgopen>
+<imgselected>empty.gif</imgselected>
+<hide>y</hide>
+<longdescr>Die Briefmarken der Schweiz bestechen durch grandiose Motive und eine solide Ausgabenpolitik. Sensationelle Ausverkäufe, wie bei der Ausgabe des Fledermausblocks "Braunes Langohr" 2012 sorgen international für Wirbel. Der Kreis der Schweiz-Sammler wächst stetig und mit ihm die Wertsteigerungschancen!</longdescr>
+<filter>n</filter>
+<category index="000056" name="Frühausgaben" type="cat">
+<filter>n</filter>
+</category>
+<category index="000057" name="Jahrgänge" type="cat">
+<filter>n</filter>
+</category>
+<category index="000058" name="Sammlungen &amp; Lots" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+</category>
+<category index="000011" name="Liechtenstein" type="cat">
+<longdescr>Ein kleines Land mit großen philatelistischen Vorzügen. Seit 1912 gibt das Fürstentum eigene Ausgaben heraus. Traditionelle und innovative Motive gehen Hand in Hand und sorgen für eine grandiose Mischung. Die Toprarität ist der erste Block, der lediglich eine Auflage von 7788 Stück hatte. Hohe Wertsteigerungschancen verbunden mit einzigartigen Motiven bilden das Geheimrezept für den Erfolg dieses Markenlandes.</longdescr>
+<trsearch>Briefmarken Liechtenstein</trsearch>
+<filter>n</filter>
+<category index="000039" name="Frühjahrsaugaben" type="cat">
+<filter>n</filter>
+</category>
+<category index="000040" name="Jahrgänge" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000012" name="Alle Welt" type="cat">
+<longdescr>Einen besonderen Reiz üben die Briefmarken aus anderen Ländern aus. In einer Zeit, in der man immer weniger echte Briefpost aus dem Ausland bekommt, können Sie hier phantastisch Zusammenstellungen und Lots zu günstigen Preisen ergattern. Viele Zusammenstellungen sind nur noch in kleinen Mengen verfügbar und die Nachbeschaffung wird immer schwieriger.</longdescr>
+<trsearch>Briefmarken Alle Welt</trsearch>
+<filter>n</filter>
+<category index="000042" name="Afrika" type="cat">
+<filter>n</filter>
+</category>
+<category index="000043" name="Asien" type="cat">
+<filter>n</filter>
+</category>
+<category index="000044" name="Amerika" type="cat">
+<filter>n</filter>
+</category>
+<category index="000207" name="Australien / Ozeanien" type="cat">
+<filter>n</filter>
+</category>
+<category index="000045" name="Europa" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000152" name="Reste &amp; Schnäppchen" type="cat">
+<trsearch>Briefmarken-Schnaeppchen</trsearch>
+<filter>n</filter>
+</category>
+<category index="000157" name="Raritäten" type="cat">
+<longdescr>Ob seltene Briefmarken oder die ganz großen Raritäten. So manchen Knüller können wir Ihnen präsentieren: ob Abarten, winzige Auflagen, zu Unrecht Vergessenes oder Unbekanntes - wir bieten ein breites Spektrum an sensationellen Raritäten. Entdecken Sie jetzt die Perlen für Ihre Sammlung!</longdescr>
+<trsearch>Briefmarken Raritäten</trsearch>
+<filter>n</filter>
+</category>
+<category index="000156" name="Kiloware" type="cat">
+<longdescr>Schätze aus der Tagespost: Briefmarken auf Papier - nicht selten werden hier noch Raritäten entdeckt. Jüngst in Dresden entdeckte ein Rentnerpaar einen Schatz der Superlative in einer gekauften Kiloware: eine One-Cent Franklin von 1861 mit seltener Prägung - Wert ca. 2,5 Millionen Euro! Gehen auch Sie auf Schatzsuche. Unser Lager umfasst über 10.000 Kilogramm undurchsuchte Kiloware aus verschiedenen Missionen.</longdescr>
+<trsearch>Briefmarken Kiloware</trsearch>
+<filter>n</filter>
+</category>
+<category index="000253" name="Kollektionen und Sammlungen" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000002" name="Münzen" type="cat">
+<imgoverview>prrimus-cat-muenzen_gross.jpg</imgoverview>
+<longdescr>Bei Primus Münzen kaufen Sie Neuheiten aus dem Top-Sammelgebiet Euro ebenso günstig online wie historische Raritäten. Sie interessieren sich für 2 Euro-Münzen? Sie möchten gerne die neueste deutsche 10 Euro Gedenkmünze kaufen? In Silber- oder Goldmünzen investieren? Im Primus Online-Shop finden Sie eine große Auswahl. Viel Spaß beim Stöbern!</longdescr>
+<filter>n</filter>
+<category index="000062" name="Euromünzen" type="cat">
+<imgoverview>prrimus-cat-euro_muenzen_gross.jpg</imgoverview>
+<longdescr>Euromünzen sind bei Münzsammlern das Sammelgebiet Nr. 1: Die Euro-Münzen zeigen die Einheit Europas ebenso wie die wunderbare Vielfalt der europäischen Nationen. Millionen entdeckten seit der Euro-Einführung die Vielfältigkeit der Euro-Münzen für sich und begannen, jedes neue Motiv zu sammeln.Die Euromünzen als ZahlungsmittelDie Einführung der europäischen Gemeinschaftswährung erfolgte in zwei Schritten: Am 1. Januar 1999 wurde der Euro als Buchgeld, am 1. Januar 2002 erstmals als Bargeld eingeführt. Damit löste der Euro die nationalen Währungen in 12 Ländern der EU als Zahlungsmittel ab und war fortan das offizielle Zahlungsmittel in Belgien, Deutschland, Finnland, Frankreich, Griechenland, Irland, Italien, Luxemburg, den Niederlanden, Österreich, Portugal und Spanien.Zudem wurde der Euro offizielles Zahlungsmittel in den 3 Kleinstaaten Vatikan, Monaco und San Marino, die, obwohl nicht zur EU gehörend, aufgrund bereits zu Vor-Euro-Zeiten bestehender Währungsverträge eigene Euro-Münzen prägen dürfen (Euro-Münzen, die zu den höchstbewerteten Ausgaben des gesamten Sammelgebietes gehören).Im Jahr 2007 kam mit Slowenien das erste neue Euro-Land dazu. Malta und Zypern folgten 2008. Im Jahr 2009 führte die Slowakei den Euro ein, Estland folgte 2011. 2014 führen Lettland und das Fürstentum Andorra, das als Kleinstaat den gleichen Status hat wie Monaco, San Marino und der Vatikan, den Euro ein.Jedes Land hat sich auf seine Art große Mühe gegeben, seine jeweilige Besonderheit ins rechte Licht zu rücken - einer der Hauptgründe, warum das Sammeln der Euro-Münzen so viel Freude macht!</longdescr>
+<filter>n</filter>
+<category index="000203" name="Euro Kursmünzen-Sätze" type="cat">
+<imgoverview>prrimus-cat-euro_kms_gross.jpg</imgoverview>
+<imgclosed>empty.gif</imgclosed>
+<imgopen>empty.gif</imgopen>
+<imgselected>empty.gif</imgselected>
+<hide>y</hide>
+<longdescr>Aus: "Schätze im Portemonnaie", 7. Auflage, Konstanz, S. 312: "Offizielle Kursmünzensätze werden von der staatlichen Prägestätte hergestellt, in der Regel in den Qualitäten Stempelglanz und Polierte Platte. Die Kursmünzensätze in der Qualität Stempelglanz werden in einer offiziellen Präsentationsverpackung (Folder, Blister) ausgegeben...  Bisweilen sind Münzen enthalten, die exklusiv für die Kursmünzensätze geprägt und in dem betreffenden Jahr nicht in Umlauf gegeben wurden... Offizielle Kursmünzensätze sind für gewöhnlich stark limitiert." Achtung MwSt.-Erhöhung: Auch bei offiziellen Kursmünzensätze und Euro-Sätzen erhöht sich zum 1. Januar 2014 der MwSt.-Satz von 7% auf 19%! Das Gebot der Stunde: Jetzt noch 12% sparen und günstig komplettieren!</longdescr>
+<filter>n</filter>
+</category>
+<category index="000228" name="Euro Kursmünzensätze" type="cat">
+<longdescr>Zum 1. Januar 2002, wurde der Euro als Bargeld eingeführt. Über 300 Millionen Menschen erhielten neue Münzen und Geldscheine. Diese größte Währungsumstellung aller Zeiten war gleichzeitig die Geburt des Sammelgebietes Nr. 1: Die Euro-Münzen zeigen die Einheit Europas ebenso wie die wunderbare Vielfalt der europäischen Nationen, von denen unter dem Dach der Europäischen Union (EU) immer mehr zusammenrücken. Millionen entdeckten diese Vielfältigkeit der Euro-Münzen für sich und begannen, jedes neu entdeckte Motiv zu sammeln.</longdescr>
+<filter>n</filter>
+</category>
+<category index="000204" name="Andorra" type="cat">
+<longdescr>El País dels Pirineus - so nennen die Andorraner ihr Fürstentum stolz: Das Land der Pyrenäen. Andorra ist ein Land mit atemberaubender Naturschönheit - und es ist ein Land mit weit zurückreichender Geschichte. So wurde bereits im Jahre 1278 die für Andorra typische Form der Doppelherrschaft geschaffen. Seit damals hat das Fürstentum zwei Staatsoberhäupter, die als Co-Fürsten bezeichnet werden: der spanische Bischof von Urgell und der Graf von Foix, in dessen Rechtsnachfolge heute der Präsident von Frankreich der zweite Co-Fürst von Andorra ist. Dies ist einzigartig: Andorra ist der einzige Staat der Welt mit zwei ausländischen Staatsoberhäuptern.Bereits 2002 hat Andorra den Euro unilateral als Zahlungsmittel eingeführt. Lange wurde erwartet, dass es Andorra erlaubt wird, eigene Euro-Münzen prägen zu dürfen - seit 1. Januar 2014 ist es soweit. Analog zu den Kleinstaaten Vatikan, Monaco und San Marino darf nun auch Andorra eigene Euro-Münzen prägen.</longdescr>
+<filter>n</filter>
+</category>
+<category index="000068" name="Belgien" type="cat">
+<longdescr>Seit 2002 sind die Euromünzen in Belgien gesetzliches Zahlungsmittel. Jede der 8 Münzen 1 Cent bis 2 Euro der ersten Jahre bis einschließlich 2013 zeigt ein Portrait von König Albert II. von Belgien. Die Münzen ab dem Jahrgang 2014 zeigen ein Portrait von Alberts Nachfolger auf dem belgischen Königsthron Philippe.</longdescr>
+<trsearch>Euromünzen Belgien</trsearch>
+<froogle>n</froogle>
+<filter>n</filter>
+</category>
+<category index="000069" name="Deutschland" type="cat">
+<longdescr>Anders als in den anderen Euro-Ländern prägen im föderalistischen Deutschland insgesamt fünf Münzstätten Euro-Münzen. Diese Prägestätten sind durch winzige Großbuchstaben auf den Münzen gekennzeichnet: Berlin, Staatliche Münze = A, München, Bayerisches Hauptmünzamt = D, Stuttgart, Staatliche Münze Baden-Württemberg = F, Karlsruhe, Staatliche Münze Baden-Württemberg = G, Hamburg, Hamburgische Münze = J.Die deutschen Euro-Kursmünzen zeigen drei Motive. Auf den 1 Cent, 2 Cent und 5 Cent Münzen ist das Eichenlaub abgebildet (Gestaltung:  Rolf Lederbogen). Das Eichenlaub steht für Kraft und Stärke und ist im Gegensatz zum monarchistischen Lorbeer ein republikanisches Symbol. Das Brandenburger Tor auf den 10 Cent, 20 Cent und 50 Cent Münzen versinnbildlicht die deutsche Wiedervereinigung und ist das Wahrzeichen der Bundeshauptstadt Berlin (Gestaltung:  Reinhard Heinsdorff). 1 Euro und 2 Euro: Der auf den deutschen 1 Euro und 2 Euro Münzen abgebildete Bundesadler ist seit 1950 deutsches Hoheitssymbol und traditionelles Kennzeichen nationaler Souveränität (Gestaltung:  Heinz Hoyer und Sneschana Russewa-Hoyer).</longdescr>
+<trsearch>Euromünzen Deutschland</trsearch>
+<filter>n</filter>
+<category index="000273" name="5 Euro mit Polymer" type="cat">
+<filter>n</filter>
+</category>
+<category index="000091" name="10 Euro Gedenkmünzen" type="cat">
+<longdescr>Die 10 Euro Münzen gehören zu den begehrtesten Gedenkmünzen Deutschlands. Seit dem Jahr 2002 werden diese BRD Gedenkünzen mit dem Nominal 10 Euro geprägt.  Jede einzelne deutsche Gedenkmünze stellt durch die Wahl des Anlasses und die künstlerische Gestaltung des Münzmotivs ein wichtiges Moment der Vergangenheit und Gegenwart Deutschlands dar: In den Gedenkmünzen spiegelt sich somit das Selbstverständnis der Bundesrepublik und die Fülle deutscher Kultur und Geschichte wieder.</longdescr>
+<trsearch>Deutschland 10 Euro Gedenkmünzen</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ2</filter1>
+<filter2>IS_ZUSATZ3</filter2>
+</category>
+<category index="000274" name="20 Euro Silber-Gedenkmünzen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000092" name="Goldmünzen" type="cat">
+<test>y</test>
+<trsearch>Deutschland Goldmünzen</trsearch>
+<filter>n</filter>
+</category>
+<category index="000176" name="BRD Gold" type="cat">
+<trsearch>goldmuenzen-deutschland</trsearch>
+<filter>n</filter>
+<category index="000210" name="BRD 20 Euro Gold" type="cat">
+<longdescr>Im Jahr 2010 gab die Bundesrepublik Deutschland die erste Goldmünze mit dem Nominal 20 Euro heraus. Die kleinen Goldmünzen (Gewicht 3,89 Gramm) aus reinem 999,9er Gold sind dem Thema "Deutscher Wald" gewidmet. Ausgaben: Eiche (Ausgabejahr 2010), Buche (2011), Fichte (2012), Kiefer (2013), Kastanie (2014), Linde (2015).</longdescr>
+<trsearch>20-euro-goldmuenzen-brd</trsearch>
+<filter>n</filter>
+</category>
+<category index="000211" name="BRD 100 Euro Gold" type="cat">
+<trsearch>100-euro-goldmuenzen-brd</trsearch>
+<filter>n</filter>
+</category>
+</category>
+<category index="000229" name="20 Euro Gedenkmünzen" type="cat">
+<longdescr>Anders als in den anderen Euro-Ländern prägen im föderalistischen Deutschland insgesamt fünf Münzstätten Euro-Münzen. Diese Prägestätten sind durch winzige Großbuchstaben auf den Münzen gekennzeichnet: Berlin, Staatliche Münze = A, München, Bayerisches Hauptmünzamt = D, Stuttgart, Staatliche Münze Baden-Württemberg = F, Karlsruhe, Staatliche Münze Baden-Württemberg = G, Hamburg, Hamburgische Münze = J.Die deutschen Euro-Kursmünzen zeigen drei Motive. Auf den 1 Cent, 2 Cent und 5 Cent Münzen ist das Eichenlaub abgebildet (Gestaltung:  Rolf Lederbogen). Das Eichenlaub steht für Kraft und Stärke und ist im Gegensatz zum monarchistischen Lorbeer ein republikanisches Symbol. Das Brandenburger Tor auf den 10 Cent, 20 Cent und 50 Cent Münzen versinnbildlicht die deutsche Wiedervereinigung und ist das Wahrzeichen der Bundeshauptstadt Berlin (Gestaltung:  Reinhard Heinsdorff). 1 Euro und 2 Euro: Der auf den deutschen 1 Euro und 2 Euro Münzen abgebildete Bundesadler ist seit 1950 deutsches Hoheitssymbol und traditionelles Kennzeichen nationaler Souveränität (Gestaltung:  Heinz Hoyer und Sneschana Russewa-Hoyer).</longdescr>
+<trsearch>Euromünzen Deutschland</trsearch>
+<filter>n</filter>
+</category>
+</category>
+<category index="000070" name="Estland" type="cat">
+<longdescr>Seit 1. Januar 2011 sind die Euro-Münzen gesetzliches Zahlungsmittel in Estland. Die Motive der nationalen Seiten der Euro-Münzen zeigen neben der Landesbezeichnung "EESTI" alle den Kartenumriss des Landes.</longdescr>
+<trsearch>Euromünzen Estland</trsearch>
+<filter>n</filter>
+</category>
+<category index="000074" name="Finnland" type="cat">
+<longdescr>Seit 2002 sind die Euromünzen in Finnland gesetzliches Zahlungsmittel. Die finnischen Euro-Münzen zeigen drei Motive. 1 Cent bis 50 Cent den Löwen des finnischen Wappens. 1 Euro fliegende Singschwäne über Seenlandschaft. 2 Euro Moltebeere (Torfbrombeere).</longdescr>
+<trsearch>Euromünzen Finnland</trsearch>
+<filter>n</filter>
+</category>
+<category index="000075" name="Frankreich" type="cat">
+<longdescr>Seit 2002 sind die Euro-Münzen in Frankreich gesetzliches Zahlungsmittel. Die Euro-Münze zeigen drei Motive. 1 Cent, 2 Cent und 5 Cent Bildnis der "Marianne", 10 Cent, 20 Cent und 50 Cent La Semeuse (die Säerin), 1 Euro und 2 Euro ein Sechseck (L'Hexagone). Die Buchstaben RF auf jeder Münze stehen für République Francaise.</longdescr>
+<trsearch>Euromünzen Frankreich</trsearch>
+<filter>n</filter>
+</category>
+<category index="000076" name="Griechenland" type="cat">
+<longdescr>Seit 2002 sind die Euro-Münzen in Griechenland gesetzliches Zahlungsmittel. Die griechischen Euro-Münzen zeigen 8 Motive. 1 Cent bis 5 Cent sind der griechischen Seefahrt gewidmet. 10, 20 und 50 Cent zeigen berühmte Persönlichkeiten aus der Zeit der griechischen Unabhängigkeitsbewegung. Die 1 Euro (Motiv einer antiken Tetradrachme Athens, Eule) und 2 Euro (Mythos Europa mit dem Stier) greifen auf die griechische Antike zurück.</longdescr>
+<trsearch>Griechenland-Euro-Muenzen</trsearch>
+<filter>n</filter>
+</category>
+<category index="000078" name="Italien" type="cat">
+<longdescr>Seit 2002 sind die Euro-Münzen gesetzliches Zahlungsmittel in Italien. Die Euro-Münzen zeigen 8 Motive mit Bauten und Kunstwerken. Die 2 Euro-Münze ziert ein Portrait des Dichters Dante. Neben den Motiven findet sich auf allen Münzen das Prägestättenzeichen, die Initialen des jeweiligen für die Gestaltung Verantwortlichen und die ineinander geschriebenen Initialen RI für Repubblica Italiana.</longdescr>
+<trsearch>Euromünzen Italien</trsearch>
+<filter>n</filter>
+</category>
+<category index="000077" name="Irland" type="cat">
+<longdescr>Seit 2002 sind die Euro-Münzen gesetzliches Zahlungsmittel in Irland. Jede der 8 Münzen 1 Cent bis 2 Euro zeigt die keltische Harfe. Sie ist das traditionelle Symbol der grünen Insel und erinnert an die Wurzeln des irischen Volkes, an ihre keltischen Vorfahren.</longdescr>
+<trsearch>Euromünzen Irland</trsearch>
+<filter>n</filter>
+</category>
+<category index="000167" name="Lettland" type="cat">
+<imgoverview>primus-cat-lettland.jpg</imgoverview>
+<longdescr>Die Euro Münzen des neuen Euro-Land Lettland: Lettland gehört neben Polen, Litauen, Malta, Estland, Slowakei, Slowenien, Tschechien, Ungarn und Zypern zu den 10 Ländern, die im Jahr 2004 Mitglied der Europäischen Union wurden. Zum 1. Januar 2014 führte das baltische Land den Euro ein. Die Euro-Motive: Die kleinen Nominale thematisieren die nationale Identität Lettlands, so zeigen die 1 bis 5 Cent-Münzen das kleine Staatswappen, auf den 10 bis 50 Cent-Münzen ist das große Staatswappen zu sehen. Das lettische Trachtenmädchen, das die großen Nominale 1 und 2 Euro ziert, ist bekannt von der lettischen 5 Lats-Münze und steht für Kontinuität von lettischer Vergangenheit und Zukunft im Zeichen des Euro.</longdescr>
+<trsearch>Euro Muenzen Lettland</trsearch>
+<filter>n</filter>
+</category>
+<category index="000216" name="Litauen" type="cat">
+<longdescr>Litauen wurde am 1. Mai 2004 Mitglied der Europäischen Union. Nach Estland und Lettland ist Litauen der dritte baltische Staat, der den Euro einführt. Litauen ist somit das 19. Vollmitglied der Euro-Zone.Die Euro-Kursmünzen Litauens zeigen alle das gleiche Motiv: Vytis, den litauischen Reiter. Das wichtige nationale Symbol ist auch auf dem Staatswappen dargestellt. Das litauische Wappen stammt ursprünglich aus dem Jahr 1366 und ist eines der ältesten Wappen Europas.</longdescr>
+<trsearch>Euromünzen Litauen</trsearch>
+<filter>n</filter>
+</category>
+<category index="000079" name="Luxemburg" type="cat">
+<longdescr>Luxemburg ist heute das letzte Großherzogtum der Welt. Alle 8 Nominale 1 Cent bis 2 Euro Luxemburgs zeigen ein Portrait des Großherzogs Henri I., dieses ist in drei Varianten ausgeführt. Henri von Luxemburg (*16. April 1955) ist der sechste luxemburgische Herrscher der Dynastie von Nassau-Weilburg.</longdescr>
+<trsearch>Euromünzen Luxemburg</trsearch>
+<filter>n</filter>
+</category>
+<category index="000080" name="Malta" type="cat">
+<longdescr>Die Euro Münzen Maltas zeigen drei Motive. Die 1, 2 und 5 Cent sind der Geschichte Maltas gewidmet und zeigen die Tempelanlage Mnajdra. Das Thema der 10, 20 und 50 Cent ist Maltas Identität, sie zeigen das Wappen Maltas. Die 1 Euro und 2 Euro zeigen mit dem Malteserkreuz das wohl bekannteste Symbol Maltas.</longdescr>
+<trsearch>Euromünzen Malta</trsearch>
+<filter>n</filter>
+</category>
+<category index="000081" name="Monaco" type="cat">
+<longdescr>Monaco prägt beginnend mit 2001 das Jahr der Produktion auf seine Euro Münzen. Wegen ihrer sehr geringen Auflagehöhen gehören die Euro Münzen des Kleinstaates Monaco zu den begehrtesten Sammelobjekten im Euro-Bereich. Die Euro-Motive 1, 2 und 5 Cent: Alle Prägejahre seit 2001 tragen das Wappen der Fürstenfamilie, ein Schild, der von zwei Schwerter schwingenden Minoritenbrüdern gehalten wird. Zwischen den Füßen der Mönche läuft ein Spruchband mit der Inschrift: DEO JUVANTE (Mit Gottes Hilfe). 10, 20 und 50 Cent: Die Münzen der Jahre 2001 bis 2005 zeigen das Reitersiegel der Familie Grimaldi. Ab dem Jahr 2006 ist das Monogramm von Fürst Albert II. abgebildet. 1 Euro: Bis einschließlich 2005 ist ein Doppelportrait von Rainier III. und seinem Sohn Prinz Albert, ab 2006 ist ein Portrait von Albert II. zu sehen. 2 Euro: Portrait des regierenden Fürsten. Bis einschließlich 2005 Rainier III., danach Albert II. von Monaco.</longdescr>
+<trsearch>Euromünzen Monaco</trsearch>
+<filter>n</filter>
+</category>
+<category index="000082" name="Niederlande" type="cat">
+<longdescr>Seit 1. Januar 2002 sind die Euro-Münzen gesetzliches Zahlungsmittel in den Niederlanden. Die Motive der nationalen Seiten der Euro-Kursmünzen der Jahre bis einschließlich 2013 tragen das Portrait von Königin Beatrix. Auf den Euro-Münzen der Niederlande ab dem Jahr 2014 ist ihr Nachfolger König Willem-Alexander zu sehen.</longdescr>
+<trsearch>Euromünzen Niederlande</trsearch>
+<filter>n</filter>
+</category>
+<category index="000083" name="Österreich" type="cat">
+<longdescr>Die österreichischen Euro-Münzen zeigen 8 verschiedene Motive. Auf allen Euromünzen ist eine kleine österreichische Staatsflagge zu sehen. Die 1, 2 und 5 Cent sind der Pflanzenwelt Österreichs gewidmet. Die 10, 20 und 50 Cent zeigen herausragende Gebäude, die 1 und 2 Euro berühmte Persönlichkeiten. </longdescr>
+<trsearch>Euromünzen Österreich</trsearch>
+<filter>n</filter>
+</category>
+<category index="000084" name="Portugal" type="cat">
+<longdescr>Portugals nationale Euro-Seiten zeigen 3 Motive, welche auf die lange Geschichte des Landes verweisen. Zu sehen sind verschiedene historische Siegel des ersten Königs von Portugal Alfons I., aus den Jahren 1134, 1142 und 1144. Seit 1. Januar 2002 sind die Euro-Münzen werden gesetzliches Zahlungsmittel. </longdescr>
+<trsearch>Euromünzen Portugal</trsearch>
+<filter>n</filter>
+</category>
+<category index="000085" name="San Marino" type="cat">
+<longdescr>Die Euro-Münzen San Marinos zeigen 8 Motive. Den Festungsturm Il Montale, die Freiheitsstatue vor dem Regierungspalast, den Wehrturm La Guaita, die Basilika des Heiligen Marinus, der Heilige Marinus selbst, Bildhauer, Eremit und legendärer Gründer San Marinos, das Staatswappen San Marinos und der Regierungspalast (Palazzo Pubblico). </longdescr>
+<trsearch>Euromünzen San Marino</trsearch>
+<filter>g</filter>
+</category>
+<category index="000086" name="Slowakei" type="cat">
+<longdescr>Die slowakischen Euro-Münzen zeigen 3 Motive. Auf den 1, 2 und 5 Cent ist der Berg Kriván ein Nationalsymbol der Slowakei abgebildet. Die Burg Bratislava ist auf den 10, 20 und 50 Cent-Münzen zu sehen. Auf der 1 Euro- und 2 Euro-Münze ist das slowakische Staatswappen mit Doppelkreuz. Die Euromünzen sind seit 1. Januar 2009 gesetzliches Zahlungsmittel.</longdescr>
+<trsearch>Euromünzen Slowakei</trsearch>
+<filter>n</filter>
+</category>
+<category index="000087" name="Slowenien" type="cat">
+<longdescr>Die slowenischen Euro-Münzen zeigen 8 Motive: den von der 20 Tolar-Münze bekannten Storch, den Fürstenstein, einen Sämann, der Sterne sät, die "Kathedrale der Freiheit", zwei Lipizzaner, den Triglav, den "slowenischen Luther" Primoz Trubar und France Preseren, den berühmtesten Dichter des neuen Euro-Landes. Seit 1. Januar 2007 sind die Euro-Münzen gesetzliches Zahlungsmittel.</longdescr>
+<trsearch>Euromünzen Slowenien</trsearch>
+<filter>n</filter>
+</category>
+<category index="000088" name="Spanien" type="cat">
+<longdescr>Die spanischen Euro-Münzen zeigen 3 Motive. 1, 2 und 5 Cent: die Kathedrale von Santiago de Compostela. 10, 20 und 50 Cent: Miguel de Cervantes, Verfasser des Romans "El ingenioso hidalgo Don Quixote de la Mancha". 1 und 2 Euro: Portrait des spanischen Königs Juan Carlos I.. Die Euromünzen sind seit 1 Januar 2002 gesetzliches Zahlungsmittel.  </longdescr>
+<trsearch>Euromünzen Spanien</trsearch>
+<filter>n</filter>
+</category>
+<category index="000089" name="Vatikan" type="cat">
+<longdescr>Die Vatikan Euro-Münzen sind seit dem 1. Januar 2002 das gesetzliche Zahlungsmittel des Vatikan. Auf allen Euro-Münzen des Vatikan ist das Portrait des jeweils amtierenden Papstes abgebildet. Ausnahmen: die Euro-Münzen zur Sedisvakanz im Jahr 2005 (nach dem Tod von Johannes Paul II.) und die 2 Euro-Münze zur Sedisvakanz 2013 (nach dem Rücktritt von Benedikt XVI.), diese zeigen neben dem Schriftzug SEDE VACANTE das Wappen des jeweiligen Camerlengo.</longdescr>
+<trsearch>Vatikan Euro Münzen</trsearch>
+<filter>n</filter>
+</category>
+<category index="000090" name="Zypern" type="cat">
+<longdescr>Zyperns Euro-Münzen zeigen neben der Landesbezeichnung in Griechisch und Türkisch (KIBRIS) 3 Motive, welche Zyperns Natur, die Verbundenheit der Insel mit dem Meer und Zyperns lange Geschichte symbolisieren. Seit 1. Januar 2008 sind die Euromünzen gesetzliches Zahlungsmittel. </longdescr>
+<trsearch>Euromünzen Zypern</trsearch>
+<filter>n</filter>
+</category>
+</category>
+<category index="000063" name="2 Euro Münzen" type="cat">
+<imgoverview>prrimus-cat-2_euro_muenzen_gross.jpg</imgoverview>
+<longdescr>Das Sammeln von Münzen hat eine lange Tradition. Mit Einführung des Euro wurden die verschiedenen Ausgaben unserer Gemeinschaftswährung das unter Münzsammlern bevorzugte Sammelgebiet. Vor allem 2 Euro-Münzen sind äußerst beliebt.  Neben den 2 Euro-Kursmünzen darf jedes Euro-Land 2 Euro-Münzen herausgeben, die sich durch besondere Ausgabeanlässe und spezielle Motive auszeichnen: diese werden 2 Euro-Gedenkmünzen oder 2 Euro-Sondermünzen genannt. Eine Besonderheit des Sammelgebietes Euro sind die drei bisherigen 2 Euro-Gemeinschaftsausgaben. Diese Münzen sind in allen Ländern gleich gestaltet und unterscheiden sich nur durch den jeweiligen Landesnamen (bzw. in den Jahren 2007 und 2009 auch durch die Sprache der Inschrift). Neben den 2 Euro-Kursmünzen darf jedes Euro-Land 2 Euro-Münzen herausgeben, die sich durch besondere Ausgabeanlässe und spezielle Motive auszeichnen: diese werden 2 Euro-Gedenkmünzen oder 2 Euro-Sondermünzen genannt. Eine Besonderheit des Sammelgebietes Euro sind die drei bisherigen 2 Euro-Gemeinschaftsausgaben. Diese Münzen sind in allen Ländern gleich gestaltet und unterscheiden sich nur durch den jeweiligen Landesnamen (bzw. in den Jahren 2007 und 2009 auch durch die Sprache der Inschrift).</longdescr>
+<filter>n</filter>
+<category index="000064" name="2 Euro Kursmünzen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000065" name="2 Euro Gedenkmünzen" type="cat">
+<longdescr>Die 2 Euro Gedenkmünzen (Sondermünze) können seit 2004 von den Euroländern als zusätzliche 2 Euro Münze ausgegeben werden. Durch Ihre themenbezogenen Motive erfreuen sich die 2 Euro Sondermünzen seither große beliebt. Die Wertseite der 2 Euro Münzen bleibt stets gleich.</longdescr>
+<filter>n</filter>
+<category index="000225" name="Jahrgang 2018" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+<filter2>IS_ZUSATZ2</filter2>
+</category>
+<category index="000226" name="Jahrgang 2017" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+<filter2>IS_ZUSATZ2</filter2>
+</category>
+<category index="000227" name="Jahrgang 2016" type="cat">
+<longdescr>Die 2 Euro Gedenkmünzen (Sondermünze) können seit 2004 von den Euroländern als zusätzliche 2 Euro Münze ausgegeben werden. Durch Ihre themenbezogenen Motive erfreuen sich die 2 Euro Sondermünzen seither große beliebt. Die Wertseite der 2 Euro Münzen bleibt stets gleich.</longdescr>
+<filter>n</filter>
+</category>
+<category index="000224" name="Jahrgang 2015" type="cat">
+<trsearch>2-Euro-Muenzen-2015</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000208" name="Jahrgang 2014" type="cat">
+<trsearch>2-Euro-Muenzen-2014</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000155" name="Jahrgang 2013" type="cat">
+<trsearch>2 Euro Gedenkmünzen 2013</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000066" name="Jahrgang 2012" type="cat">
+<longdescr>Neben der 2 Euro Gemeinschaftsausgabe "10 Jahre Euro Bargeld" werden 2012 eine vielzahl von 2 Euro Gedenkmünzen verschiedenen Eurostaaten ausgegeben. Einige große Highlights sind dabei die 2 Euro Münzen von Deutschland, Frankreich und die Kleinstaatenrarität des Vatikan.</longdescr>
+<trsearch>2 Euro Gedenkmünzen 2012</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000067" name="Jahrgang 2011" type="cat">
+<trsearch>2 Euro Gedenkmünzen 2011</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000073" name="Jahrgang 2010" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000119" name="Jahrgang 2009" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000120" name="Jahrgang 2008" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000131" name="Jahrgang 2007" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000132" name="Jahrgang 2006" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000133" name="Jahrgang 2005" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000134" name="Jahrgang 2004" type="cat">
+<trsearch>2 Euro Gedenkmünzen 2004</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+</category>
+<category index="000145" name="2 Euro Kleinstaaten" type="cat">
+<filter>n</filter>
+</category>
+<category index="000146" name="2 Euro Neuheiten reservieren" type="cat">
+<longdescr>Profitieren Sie von unseren guten Kontakten: Reservieren Sie gleich die neuesten 2 Euro Münzen, um die gewünschte Münze bei Erscheinen zum günstigen Primus Erstausgabepreis zu erhalten. Der Reservierungs-Service ist kostenlos.</longdescr>
+<filter>n</filter>
+</category>
+<category index="000148" name="2 Euro Münzen veredelt" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+<filter2>IS_ZUSATZ2</filter2>
+</category>
+</category>
+<category index="000093" name="Deutschland vor 2001" type="cat">
+<imgoverview>prrimus-cat-deutschland_vor_2001_gross.jpg</imgoverview>
+<longdescr>Ob die Taler der Altdeutschland genannten Zeit, ob Mark des Deutschen Reiches, der DDR oder der BRD- Die Vielfalt deutscher Münzen ist historisch faszinierend und numismatisch wertträchtig. Deutschlands Münzen der Voreuro-Zeit sind ein abgeschlossenes Sammelgebiet, das mit ausgesprochenen Raritäten glänzt.</longdescr>
+<trsearch>muenzen-aus-deutschland-vor-2001</trsearch>
+<filter>n</filter>
+<category index="000101" name="BRD" type="cat">
+<imgoverview>prrimus-cat-BRD_gross.jpg</imgoverview>
+<longdescr>Ob als Zeugen der Zeitgeschichte, Kleinode moderner deutscher Kunst oder die beliebteste Wertanlage des kleinen Mannes, die DM-Gedenkmünzen der Bundesrepublik sind seit Jahrzehnten das beliebteste Sammelgebiet Deutschlands.</longdescr>
+<trsearch>Münzen der BRD</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ1</filter1>
+</category>
+<category index="000102" name="DDR" type="cat">
+<imgoverview>prrimus-cat-DDR_gross.jpg</imgoverview>
+<longdescr>Das abgeschlossene Sammelgebiet "DDR" hat in den letzten Jahren immer mehr begeisterte Sammler gefunden. So faszinieren die Münzen der Deutschen Demokratischen Republik mit Motiven und Themen, welche deutsche Geschichte und Kultur erlebbar machen. Aufhorchen lässt zudem ihr Wertpotential: Denn vor allem die Gedenkmünzen der DDR glänzen mit Auflagen, die in der Regel wesentlich geringer sind als jene der BRD-Münzen.</longdescr>
+<trsearch>Münzen der DDR</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ1</filter1>
+<category index="000149" name="Gedenkmünzen der DDR" type="cat">
+<longdescr>Etwas später als die Bundesrepublik Deutschland hat die DDR auch Gedenkmünzen ausgegeben, in den Nominalwerten 5 Mark, 10 Mark und 20 Mark. Die Gedenkmünzen der DDR glänzen mit Auflagen, die in der Regel wesentlich geringer sind als jene der BRD-Münzen. Dieses Wertpotential der kleinen Auflagen ist neben der Vielfalt an Motiven und Themen der Grund dafür, dass das abgeschlossene Sammelgebiet "DDR Gedenkmünzen" Jahren immer mehr begeisterte Sammler findet.</longdescr>
+<filter>n</filter>
+</category>
+</category>
+<category index="000103" name="Drittes Reich" type="cat">
+<imgoverview>prrimus-cat-DrittesReich_gross.jpg</imgoverview>
+<trsearch>Münzen Drittes Reich</trsearch>
+<filter>n</filter>
+</category>
+<category index="000104" name="Weimarer Republik" type="cat">
+<imgoverview>prrimus-cat-weimar_gross.jpg</imgoverview>
+<longdescr>Die Münzen der Weimarer Republik gelten bei Kennern als die künstlerisch schönsten und stilvollsten deutschen Münzen! Ein seit Jahrzehnten beliebtes Sammelgebiet mit vielen Raritäten, die nach Experten-Meinungen immer noch stark unterbewertet sind. Die erste Gedenkmünze Weimars wurde 1925 ausgegeben, 1932 erschien die letzte Gedenkmünze. Laut Münzkatalog Jaeger* sind von den ursprünglich geprägten 3 Reichsmark-Silbermünzen nur noch 2,65% vorhanden, von den Münzen mit dem Nominal 5 Reichsmark sogar nur 0,68%.</longdescr>
+<trsearch>Münzen Weimarer Republik</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ4</filter1>
+</category>
+<category index="000105" name="Kaiserreich" type="cat">
+<imgoverview>prrimus-cat-kaiserreich_gross.jpg</imgoverview>
+<longdescr>Die Münzen des Deutschen Kaiserreiches sind eines der faszinierendsten und wertträchtigsten Sammelgebiete überhaupt. Die Proklamation des preußischen Königs Wilhelm zum Deutschen Kaiser und die Reichsgründung hatten die Grundlage für die erste einheitliche Währung der Deutschen geschaffen - die Mark. Diese Münzen sind heute gesuchte und seltene Originaldokumente deutscher Geschichte. Von den Münzen des Deutschen Kaiserreiches sind schätzungsweise nur noch 10 bis 40% vorhanden - was zu außerordentlichen Wertsteigerungen führt.</longdescr>
+<trsearch>Münzen deutsches Kaiserreich</trsearch>
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+<filter2>IS_ZUSATZ4</filter2>
+<category index="000223" name="Goldmünzen Kaiserreich" type="cat">
+<imgoverview>prrimus-cat-kaiserreich_gross.jpg</imgoverview>
+<test>y</test>
+<longdescr>Die Münzen des Deutschen Kaiserreiches sind eines der faszinierendsten und wertträchtigsten Sammelgebiete überhaupt. Die Proklamation des preußischen Königs Wilhelm zum Deutschen Kaiser und die Reichsgründung hatten die Grundlage für die erste einheitliche Währung der Deutschen geschaffen - die Mark. Diese Münzen sind heute gesuchte und seltene Originaldokumente deutscher Geschichte. Von den Münzen des Deutschen Kaiserreiches sind schätzungsweise nur noch 10 bis 40% vorhanden - was zu außerordentlichen Wertsteigerungen führt.</longdescr>
+<trsearch>Münzen deutsches Kaiserreich</trsearch>
+<filter>n</filter>
+</category>
+</category>
+<category index="000106" name="Altdeutschland" type="cat">
+<trsearch>Münzen Altdeutschland</trsearch>
+<filter>n</filter>
+</category>
+<category index="000278" name="Antike Münzen" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+</category>
+<category index="000094" name="Goldmünzen und Barren" type="cat">
+<imgoverview>prrimus-cat-gold_barren_gross.jpg</imgoverview>
+<imgclosed>empty.gif</imgclosed>
+<imgopen>empty.gif</imgopen>
+<imgselected>empty.gif</imgselected>
+<hide>y</hide>
+<filter>n</filter>
+<category index="000107" name="Kleine Goldmünzen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000108" name="Historische Goldmünzen" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000095" name="Silbermünzen und Barren" type="cat">
+<imgoverview>prrimus-cat-silber_barren_gross.jpg</imgoverview>
+<imgclosed>empty.gif</imgclosed>
+<imgopen>empty.gif</imgopen>
+<imgselected>empty.gif</imgselected>
+<hide>y</hide>
+<longdescr>Jetzt noch 12% sparen! Der Countdown läuft, die letzten Tage mit günstigen 7% Mehrwertsteuer auf Silbermünzen und Silber-Münzbarren! Zum 1. Januar 2014 steigt die Mehrwertsteuer bei allen Münzen, die bisher mit 7% versteuert wurden, auf 19%! Alle Sammler, die noch vom günstigen Mehrwertsteuersatz profitieren wollen, sollten sich beeilen.</longdescr>
+<filter>n</filter>
+<category index="000144" name="Jahrgang 2013" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000100" name="Historische Münzen" type="cat">
+<imgoverview>prrimus-cat-HistorischeMuenzen_gross.jpg</imgoverview>
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+<filter2>IS_ZUSATZ4</filter2>
+</category>
+<category index="000169" name="Gold und Silber" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+<filter2>IS_ZUSATZ2</filter2>
+<filter3>IS_ZUSATZ3</filter3>
+<filter4>IS_ZUSATZ4</filter4>
+<category index="000170" name="Goldmünzen" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+<filter2>IS_ZUSATZ1</filter2>
+<filter3>IS_ZUSATZ2</filter3>
+<filter4>IS_ZUSATZ4</filter4>
+<filter5>IS_ZUSATZ5</filter5>
+</category>
+<category index="000171" name="Goldbarren" type="cat">
+<filter>n</filter>
+</category>
+<category index="000201" name="Historische Goldmünzen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000172" name="Gold-Preishits" type="cat">
+<longdescr>Besondere Goldmünzen-Tipps: Die hier gelisteten Goldmünzen zu günstigen Preisen sind je nur noch in kleiner Stückzahl lieferbar. Die günstigen Preise gelten nur bis Ausverkauf des je vorrätigen Kontingents.</longdescr>
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+<filter2>IS_ZUSATZ2</filter2>
+</category>
+<category index="000173" name="Silbermünzen" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+<filter2>IS_ZUSATZ1</filter2>
+<filter3>IS_ZUSATZ2</filter3>
+<filter4>IS_ZUSATZ3</filter4>
+<filter5>IS_ZUSATZ4</filter5>
+<filter6>IS_ZUSATZ5</filter6>
+</category>
+<category index="000174" name="Silberbarren" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+<filter2>IS_ZUSATZ4</filter2>
+<filter3>IS_ZUSATZ5</filter3>
+</category>
+<category index="000202" name="Historische Silbermünzen" type="cat">
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000175" name="Silber-Preishits" type="cat">
+<filter>n</filter>
+</category>
+<category index="000214" name="Barren aus Edelmetall" type="cat">
+<filter>n</filter>
+</category>
+<category index="000217" name="Weitere Anlagemünzen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000230" name="Goldmünzen Deutschland" type="cat">
+<filter>n</filter>
+<category index="000231" name="BRD 100 Euro Goldmünze" type="cat">
+<filter>n</filter>
+</category>
+<category index="000233" name="BRD 20 Euro Goldmünze" type="cat">
+<trsearch>20 Euro Gedenkmünzen</trsearch>
+<filter>n</filter>
+</category>
+<category index="000234" name="Historische Goldmünzen" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+</category>
+<category index="000235" name="Kupferbarren" type="cat">
+<filter>n</filter>
+</category>
+<category index="000282" name="veredelte Anlagemünzen" type="cat">
+<filter>n</filter>
+</category>
+</category>
+<category index="000096" name="Münzen aus aller Welt" type="cat">
+<imgoverview>prrimus-cat-allewelt_gross.jpg</imgoverview>
+<longdescr>Die Münzen aus aller Welt zeigen die kostbare Fülle menschlicher Kultur und Geschichte, in ihnen spiegelt sich wunderbar das Selbstverständnis des jeweiligen Ausgabelandes wider. Kein Wunder, dass immer mehr Sammler das faszinierende Sammelgebiet für sich entdecken.</longdescr>
+<filter>y</filter>
+<filter1>IS_ZUSATZ4</filter1>
+<category index="000097" name="Schweiz" type="cat">
+<imgoverview>prrimus-cat-schweiz_gross.jpg</imgoverview>
+<trsearch>Münzen Schweiz</trsearch>
+<filter>n</filter>
+</category>
+<category index="000098" name="Vor-Euro" type="cat">
+<imgoverview>prrimus-cat-voreuro_gross.jpg</imgoverview>
+<trsearch>Voreuro Münzen</trsearch>
+<filter>n</filter>
+</category>
+<category index="000137" name="Weltmünzensätze" type="cat">
+<imgoverview>prrimus-cat-weltmuenzen_gross.jpg</imgoverview>
+<filter>n</filter>
+</category>
+</category>
+<category index="000099" name="Banknoten - Aktien - Orden" type="cat">
+<imgoverview>prrimus-cat-Banknoten_gross.jpg</imgoverview>
+<filter>n</filter>
+<category index="000165" name="Goldfolien" type="cat">
+<filter>n</filter>
+</category>
+<category index="000284" name="Banknoten" type="cat">
+<test>y</test>
+<filter>y</filter>
+<filter1>IS_ZUSATZ0</filter1>
+</category>
+<category index="000286" name="Orden und Abzeichen" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+</category>
+<category index="000136" name="Besondere Münzen &amp; Kollektionen" type="cat">
+<imgoverview>prrimus-cat-BesondereMuenzen_gross.jpg</imgoverview>
+<filter>n</filter>
+<category index="000205" name="Besondere Münzen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000206" name="Kollektionen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000147" name="Goldfolien 10 Jahre Euro-Bargeld" type="cat">
+<filter>n</filter>
+</category>
+<category index="000153" name="Generalgouvernement" type="cat">
+<filter>n</filter>
+</category>
+<category index="000287" name="Gold-Gedenkausgaben" type="cat">
+<filter>n</filter>
+</category>
+</category>
+</category>
+<category index="000159" name="Numisbriefe" type="cat">
+<imgoverview>prrimus-cat-numisbriefe_head_gross2.jpg</imgoverview>
+<filter>n</filter>
+</category>
+<category index="000168" name="Geschenkideen" type="cat">
+<longdescr>Sicher kennen Sie die Situation: Man findet kein passendes Geschenk. Dann greift man zu Notlösungen, die nur wenig Freude bereiten und in den Ecken verstauben. Das muss natürlich nicht sein!Wir wünschen Ihnen viel Vergnügen mit unseren Geschenkideen!</longdescr>
+<filter>n</filter>
+<category index="000221" name="Schmuck" type="cat">
+<longdescr>Dieses glückliche Glitzern in den Augen der geliebten Frau, ein Lächeln, welches ein schönes Gesicht noch schöner macht - dieser atemberaubende Moment, wenn die Welt des Alltags zu funkeln beginnt, da ein Geschenk von Herzen seine Bestimmung findet: Vielleicht ein Ring aus echtem Gold, vielleicht ein Schmuckanhänger aus wertvollem Silber. Echter Schmuck - für glückliche Momente, die noch lange nachklingen</longdescr>
+<filter>n</filter>
+</category>
+<category index="000236" name="Literatur" type="cat">
+<filter>n</filter>
+</category>
+<category index="000109" name="Zubehör und Pflege" type="cat">
+<imgoverview>prrimus-cat-zubehoer_gross.jpg</imgoverview>
+<longdescr>Werte bewahren, Schönheit erhalten! Nur eine geeignete Aufbewahrung und die richtige Pflege erhalten die Schönheit und den Wert einer Sammlung. Aus diesem Grunde ist Qualitäts-Zubehör für den leidenschaftlichen Sammler unerlässlich. </longdescr>
+<filter>n</filter>
+<category index="000237" name="Briefmarken Zubehör" type="cat">
+<filter>n</filter>
+<category index="000238" name="Briefmarken Alben" type="cat">
+<filter>n</filter>
+</category>
+<category index="000239" name="Briefmarken Vordruckalben" type="cat">
+<filter>n</filter>
+</category>
+<category index="000240" name="Briefmarken sonstiges Zubehör" type="cat">
+<filter>n</filter>
+<category index="000398" name="Briefmarken sonstiges Zubehör" type="cat">
+<filter>n</filter>
+</category>
+</category>
+</category>
+<category index="000110" name="Alben für Briefmarken &amp; Münzen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000111" name="Münzkapseln" type="cat">
+<filter>n</filter>
+</category>
+<category index="000112" name="Kassetten" type="cat">
+<filter>n</filter>
+</category>
+<category index="000113" name="Münzboxen und Koffer" type="cat">
+<filter>n</filter>
+</category>
+<category index="000114" name="Tableaus für Kassetten, Boxen &amp; Koffer" type="cat">
+<filter>n</filter>
+</category>
+<category index="000115" name="Waagen &amp; Prüfgeräte" type="cat">
+<filter>n</filter>
+</category>
+<category index="000116" name="Lupen und Pinzetten" type="cat">
+<filter>n</filter>
+</category>
+<category index="000117" name="Münzreinigung" type="cat">
+<filter>n</filter>
+</category>
+<category index="000212" name="Hüllen für Alben" type="cat">
+<imgoverview>prrimus-cat-zubehoer_gross.jpg</imgoverview>
+<longdescr>Werte bewahren, Schönheit erhalten! Nur eine geeignete Aufbewahrung und die richtige Pflege erhalten die Schönheit und den Wert einer Sammlung. Aus diesem Grunde ist Qualitäts-Zubehör für den leidenschaftlichen Sammler unerlässlich. </longdescr>
+<filter>n</filter>
+</category>
+<category index="000213" name="Steckkarten für Briefmarken &amp; Postkarten" type="cat">
+<imgoverview>prrimus-cat-zubehoer_gross.jpg</imgoverview>
+<longdescr>Werte bewahren, Schönheit erhalten! Nur eine geeignete Aufbewahrung und die richtige Pflege erhalten die Schönheit und den Wert einer Sammlung. Aus diesem Grunde ist Qualitäts-Zubehör für den leidenschaftlichen Sammler unerlässlich. </longdescr>
+<filter>n</filter>
+</category>
+</category>
+</category>
+<category index="000138" name="Restposten &amp; Schnäppchen" type="cat">
+<imgoverview>prrimus-cat-restposten_gross.jpg</imgoverview>
+<filter>n</filter>
+<category index="000139" name="Euro Münzensätze" type="cat">
+<filter>n</filter>
+</category>
+<category index="000140" name="2 Euromünzen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000141" name="Euro Gedenkmünzen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000142" name="Weltmünzensätze" type="cat">
+<filter>n</filter>
+</category>
+<category index="000151" name="Besonderheiten" type="cat">
+<filter>n</filter>
+</category>
+<category index="000160" name="Alles unter 5 Euro" type="cat">
+<filter>n</filter>
+</category>
+<category index="000161" name="Alles unter 20 Euro" type="cat">
+<filter>n</filter>
+</category>
+<category index="000162" name="Gemeinschaftsausgaben" type="cat">
+<filter>n</filter>
+</category>
+</category>
+</menucategories>
+</categories>

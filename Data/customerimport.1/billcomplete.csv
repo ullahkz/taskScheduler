@@ -1,0 +1,52 @@
+UserIndex	CustomerID	TableIndex	ExternalID	BusinessFax	BusinessPhone	City	Company	CompleteSalutation	CostCenter	CountryISO	DateOfBirth	Department	EMail2	Fax	FirstName	LastName	MobilePhone	Phone	PostOfficeBox	PostOfficeBoxZip	SalutationCode	Street1	Suffix1	Suffix2	Suffix8	Suffix10	TaxId	TitleCode	Zip
+160494	0031103500	0	1			Albbruck		Sehr geehrter Herr Ebi,		DEU	14.02.1957				Herbert	Ebi		07753667			01	Albsteg 3							79774
+156681	0031638461	0	1			Berlin		Sehr geehrter Herr Helbig,		DEU	07.03.1951				Norbert	Helbig		01637531491			01	Mittelbruchzeile 110							13409
+71622	0032080774	0	1			Solingen		Sehr geehrter Herr Botzian,		DEU	19.09.1956				Peter	Botzian		021215786			01	Neuenhofer Str. 74							42657
+84809	0041745479	0	1			Zeitz		Sehr geehrter Herr Beer,		DEU	16.03.1969				Andreas	Beer	01629429748	03441270145			01	Kramerstr. 10 /11							06712
+60229	0064997001	0	1			Amtsberg		Sehr geehrter Herr Stöckel,		DEU	12.09.1952				Matthias	Stöckel		0372092646			01	Am Südhang 30							09439
+166717	0068217630	0	1			Nordhorn		Sehr geehrter Herr Brietzke,		DEU	19.11.1948				Friedrich	Brietzke		0592138300			01	Alkenstiege 2							48529
+0	4000242317	0	1			Kinding		Sehr geehrter Herr Semmler,		DEU	21.05.1954				Georg	Semmler	015115224368	08467725			01	Unteremmendorf 8a							85125
+0	4000250085	0	1			Wesseling		Sehr geehrter Herr Pesch,		DEU	02.07.1968			02236599798	Markus	Pesch		022365542			01	Försterweg 1							50389
+54255	4000318343	0	1			Kreßberg		Sehr geehrter Herr Wild,		DEU	10.08.1953				Klaus	Wild		079578121			01	Feldle 16							74594
+170601	4000438776	0	1			Dresden		Sehr geehrter Herr Nagel,		DEU	14.04.1956				Steffen	Nagel		03512516364			01	Rennplatzstr. 11							01237
+31825	4000498210	0	1			Ahrensfelde		Sehr geehrter Herr Heinrich,		DEU	17.11.1951			0302419770	Michael	Heinrich		03024728741			01	Heinestr. 9						$0	16356
+9113	4000628044	0	1			Berlin		Sehr geehrter Herr Körner,		DEU	25.12.1968				Christoph	Körner		03029491622			01	Scharnweberstr. 111							12587
+1741	4000672753	0	1			Herzogenaurach		Sehr geehrte Frau Lehner,		DEU	06.03.1951				Henriette	Lehner		091328908			02	Ringstr. 7							91074
+76490	4000886773	0	1			Güsen		Sehr geehrter Herr Roeder,		DEU	09.04.1953				Rolf-Rüdiger	Roeder		039344  34429			01	Herderstr. 27							39317
+58954	4000894050	0	1			Düsseldorf		Sehr geehrter Herr Fabian,		DEU	27.12.1951				Dieter	Fabian		0211614270			01	Robert-Stolz-Str. 17							40470
+146794	4001070553	0	1			Berlin		Sehr geehrter Herr Hartz,		DEU	28.09.1943				Uwe	Hartz		0306481794			01	Saarower Weg 26							12589
+155703	4001097847	0	1			Halberstadt		Sehr geehrter Herr Rienäcker-Müller,		DEU	26.05.1956				Ulrich	Rienäcker-Müller		01604041563			01	Oststr. 11 a							38820
+66890	4001105516	0	1			Schmalkalden		Sehr geehrter Herr Eberhardt,		DEU	23.06.1949			03683668247	Jürgen	Eberhardt		03683603022			01	Sportplatz 7							98574
+9517	4001133941	0	1			Griesheim		Sehr geehrter Herr Jann,		DEU	25.10.1955			06155665518	Bernd	Jann		06155665505			01	Wilhelm-Leuschner-Str. 241							64347
+65637	4001587693	0	1			Berlin		Sehr geehrter Herr Langer,		DEU	26.07.1956			03047594975	Ingo	Langer		03047594975			01	Salvador-Allende-Str. 63							12559
+43092	4002161472	0	1			Hitzacker		Sehr geehrter Herr Wedler,		DEU	07.06.1959			05862941090	Jürgen	Wedler		05862203			01	Försterkamp 8							29456
+170729	4002637940	0	1			Birstein		Sehr geehrte Frau Alt-koch,		DEU	28.12.1956				Gudrun	Alt-koch	01712685472	06054900527			02	Im Roth 9							63633
+116301	4004801125	0	1			Dresden		Sehr geehrter Herr Jentzsch,		DEU	22.02.1942				Eberhard	Jentzsch		03512523889			01	Winterbergstr. 119							01237
+161325	4004816388	0	1			Wendisch Evern		Sehr geehrter Herr Lohn,		DEU	08.12.1962				Andreas	Lohn		04131840305			01	Am Hundeberg 13							21403
+138613	4005107034	0	1			Rostock		Sehr geehrter Herr Fahl,		DEU	22.08.1942				Hans-Peter	Fahl		03813758435			01	Greifswalder Str. 6							18057
+60575	4005195288	0	1			Bad Wiessee		Sehr geehrter Herr Menssen,		DEU	10.06.1941				Horst	Menssen	01728507550	080226733350			01	Koglkopfstr. 21						1	83707
+46410	4005289971	0	1			Aachen		Sehr geehrter Herr Gubelt,		DEU	13.12.1952				Friedhelm	Gubelt		024165064			01	Middeldorfstr. 15							52066
+64042	4005668124	0	1			Jena		Sehr geehrter Herr Andres,		DEU	05.05.1942				Horst	Andres		03641446056			01	Am Steinborn 11							07749
+59213	4005754539	0	1			Roth		Sehr geehrter Herr Muschweck,		DEU	01.02.1942				Hermann	Muschweck		0917161055			01	Heidenbergstr. 15							91154
+128967	4006224593	0	1			Osnabrück		Sehr geehrter Herr Nell,		DEU	06.03.1960				Joachim	Nell		054120079579			01	Sonnenwinkel 12							49082
+115953	4006407360	0	1			Weil im Schönbuch		Sehr geehrter Herr Holzwarth,		DEU	09.12.1948				Eduard	Holzwarth		0715763165			01	Eschenweg 11							71093
+71147	4006468865	0	1			Murrhardt		Sehr geehrter Herr Siebert,		DEU	06.05.1964				Rene	Siebert		071929399122			01	Adalbert-Stifter-Str. 14							71540
+169176	4006475394	0	1			Geestland		Sehr geehrter Herr Isensee,		DEU	06.09.1953				Karl-Heinz	Isensee		047431842			01	Narzissenweg 2 d							27607
+86123	4006479522	0	1			Oberweißbach		Sehr geehrte Frau Speiser,		DEU	25.01.1962				Andrea	Speiser		03670562793			02	Rudolstädter Str. 101							98744
+169262	4006506066	0	1			Berlin		Sehr geehrter Herr Stendel,		DEU	21.01.1959				Stefan	Stendel					01	Im Rosengrund 29 a							12347
+159524	4006611772	0	1			Passau		Sehr geehrter Herr Resch,		DEU	27.12.1960				Günther	Resch					01	Carossastr. 79							94036
+162320	4006620469	0	1			Ahlerstedt		Sehr geehrter Herr Heyns,		DEU	27.08.1958				Wilfried	Heyns		04166841810			01	Landstr. 5 a							21702
+163155	4006633810	0	1			Stelle		Sehr geehrter Herr Kral,		DEU	27.06.1967				Olaf	Kral					01	Wittenkuhlen 118							21435
+161351	4007071032	0	1			Wasserlosen		Sehr geehrter Herr Karch,		DEU	03.08.1964				Ottmar	Karch					01	Raiffeisenstr. 10							97535
+161687	4007165084	0	1			Bielefeld		Sehr geehrter Herr Patzelt,		DEU	21.08.1973				Dirk	Patzelt					01	Orchideenstr. 16 a							33739
+162049	4007183732	0	1			Essen		Sehr geehrter Herr Bäck,		DEU	02.04.1951				Norbert	Bäck					01	Flakering 30							45277
+167431	4007253942	0	1			Fischbachtal		Sehr geehrter Herr Wohner,		DEU	03.01.1990				Robin	Wohner					01	Herrenseestr. 14							64405
+167155	4007313129	0	1			Remagen		Sehr geehrter Herr Birker,		DEU	28.12.1929			02642902209	Hans	Birker		02642902201			01	In der Au 17							53424
+164401	4007476284	0	1			Biberach		Sehr geehrter Herr Enderle,		DEU	15.05.1954				Lothar	Enderle		07357921359			01	Beim Wiesental 25							88400
+166346	4007480563	0	1			Unna		Sehr geehrter Herr Reinert,		DEU	14.08.1958				Gerhard	Reinert					01	Dorotheenstr. 14 c							59425
+166489	4007503940	0	1			Olpe		Sehr geehrter Herr Weber,		DEU	29.01.1951				Bruno Karl	Weber					01	Rotdornweg 19							57462
+167462	4007549839	0	1			Salzatal		Sehr geehrter Herr Wötzel,		DEU	02.01.1965				Ingo	Wötzel					01	Kuckucksbergweg 15 a							06198
+168108	4007564768	0	1			Bellheim		Sehr geehrter Herr Engelhart,		DEU	05.04.1995				Kai	Engelhart					01	Hintere Str. 43							76756
+169149	4007607393	0	1			Detmold		Sehr geehrter Herr Harder,		DEU	04.02.1989				Kai	Harder					01	Lemgoer Str. 86 a							32756
+169309	4007609248	0	1			Dresden		Sehr geehrter Herr Wallner,		DEU	01.10.1982				René	Wallner					01	Cranachstr. 4							01307
+0	4007629743	0	1			Regensburg		Sehr geehrter Herr Böhm,		DEU	14.01.1988				Alexander	Böhm					01	Kurt-Schumacher-Str. 27							93049
