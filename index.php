@@ -49,7 +49,7 @@ if(file_exists($file_name)){
 
 	$date = date('Y-m-d'); 
 
-	$time_minus = date('H:i:s', time()-(1 * 60 * 60)); 
+	$time_minus = date('H:i:s', time()-(3 * 60 * 60)); 
 
 	$time_plus = date('H:i:s', time()); 
 
@@ -88,7 +88,7 @@ if(file_exists($file_name)){
 			$info = $date.'	'.$time_plus.'	'.'No data found to export!';
 			echo $info.'<br>';
 
-			fwrite($file, $info);
+			fwrite($file, $info."\n");
 			fclose($file);
 
 	}
@@ -102,9 +102,10 @@ if(file_exists($file_name)){
 
 			$file = fopen('DuG-Export-log.txt', 'a');
 			
-			$start_info =  $date."	".$time_plus."	".'Export Starts';
+			$start_info =  $date."	".$time_plus."	".'Export Starts'.'	';
 
-			fwrite($file, str, length)
+			fwrite($file, $start_info."\n");
+
 			$directory_list = scandir($path); 
 
 	    	$_minus =  date('H:i:s', strtotime(end($service_info))-(5*60));
@@ -117,7 +118,7 @@ if(file_exists($file_name)){
 
 		    		echo $string;
 
-		    		fwrite($file, $string);
+		    		fwrite($file, $string."\n");
 
 		    		$operation[0] = 1; 
 		    	}
@@ -141,11 +142,18 @@ if(file_exists($file_name)){
         $source2 = 'G:\VS\DG\Ishop\Websale\websale8_shop-service-center\data-exchange\archiv\customerimport.1';
 
         if(file_exists($source1) && file_exists($source2)){
-	      $target1 = 'Data\directimport.1';
-	      $target2 = 'Data\customerimport.1';
 
-	      full_copy($source1, $target1);
-	      full_copy($source2, $target2);
+            $date_dir = 'Data/'.date('d-m');
+
+            if(!is_dir($date_dir)){
+                mkdir('Data/'.date('d-m'));    
+            }       	
+
+	        $target1 = $date_dir.'\directimport.1';
+	        $target2 = $date_dir.'\customerimport.1';
+
+	        full_copy($source1, $target1);
+	        full_copy($source2, $target2);
 
 	  	}
 	  	else{
@@ -154,7 +162,7 @@ if(file_exists($file_name)){
 			$error_info = $date.'	'.$time_plus.'	'.'Error while copying data!';
 			echo $error_info.'<br>';
 			
-			fwrite($file, $error_info);
+			fwrite($file, $error_info."\n");
 			fclose($file);	  		
 	  	}
 
@@ -163,6 +171,17 @@ if(file_exists($file_name)){
 	  	if(file_exists($target1)){
 
 	  		echo '<br>Files are successfully copied!<br>';
+
+        $data_path = $date_dir.'/directimport.1/01-aa/wpupdate.csv';
+        $data_path_2 = $date_dir.'/directimport.1/01-aa/wpcomplete.csv';
+
+        if(!file_exists($data_path) && !file_exists($data_path_2)){
+        	$file = fopen('DuG-Export-log.txt', 'a');
+			$file_not_exists = $date.'	'.$time_plus.'	'.'This Export is not for Primus SHOP! May be for another SHOP, because no file exists!';
+			fwrite($file, $file_not_exists."\n");
+	  		fclose($file);        	
+            die('This Export is not for Primus SHOP! May be for another SHOP, because no file exists!');
+        }	  		
 
 /***********************
 	Operation (3) End
@@ -197,7 +216,7 @@ if(file_exists($file_name)){
 
     	// available predefined templates
     	
-    	$import_name_array = ['import.default_articles_complete.csv','import.default_article_categories.csv','import.default_article_images_url.csv','import.default_article_in_stock.csv','import.default_article_images.csv','import.default_article_prices.csv'];
+    	$import_name_array = ['import.default_articles_complete.csv','import.default_article_in_stock.csv','import.default_article_categories.csv','import.default_article_images_url.csv','import.default_article_images.csv','import.default_article_prices.csv'];
 
 /***********************
 	Operation (4) End
@@ -229,6 +248,8 @@ if(file_exists($file_name)){
 	    		$file_path = 'Export/'.date('d-m').'/';    		
 	    		$artikel_data_export->uploadToShopware($file_path, $import_name_array[$j]);
 	    		echo 'This file "'.$file_path.$import_files.'" was uploaded.<br>';
+	    		// $cron_text = file_get_contents('http://1-demo-2018.muenzpreis.de/backend/SwagImportExportCron/cron');
+	    		// echo $cron_text.'<br>';
     		}
     		$j++;
     	}
@@ -242,12 +263,14 @@ if(file_exists($file_name)){
 ********************/
 
 		// Do the cron job
-	  		$file = fopen('DuG-Export-log.txt', 'a');
-	  		$cron_text = file_get_contents('http://1-demo-2018.muenzpreis.de/backend/SwagImportExportCron/cron');
-	  		$finished = 'Import finished!'; 
-	  		fwrite($file, $cron_text);
-	  		fwrite($file, $finished);
-	  		fclose($file);
+
+	  		// $file = fopen('DuG-Export-log.txt', 'a');
+	  		// $cron_text = file_get_contents('http://1-demo-2018.muenzpreis.de/backend/SwagImportExportCron/cron');
+	  		// $finished = 'Import finished!.<br>';
+	  		// echo $cron_text;
+	  		// fwrite($file, $cron_text."\n");
+	  		// fwrite($file, $finished."\n");
+	  		// fclose($file);
 
 /************************
 	Operation (6) End

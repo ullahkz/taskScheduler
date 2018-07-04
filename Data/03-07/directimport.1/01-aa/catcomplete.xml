@@ -74,13 +74,22 @@
 <category index="000265" name="Oldenburg" type="cat">
 <filter>n</filter>
 </category>
+<category index="000266" name="Preußen" type="cat">
+<filter>n</filter>
+</category>
 <category index="000267" name="Sachsen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000268" name="Schleswig-Holstein" type="cat">
 <filter>n</filter>
 </category>
 <category index="000269" name="Thurn und Taxis" type="cat">
 <filter>n</filter>
 </category>
 <category index="000270" name="Württemberg" type="cat">
+<filter>n</filter>
+</category>
+<category index="000271" name="Norddeutscher Bund" type="cat">
 <filter>n</filter>
 </category>
 </category>
@@ -190,14 +199,12 @@
 <filter>n</filter>
 </category>
 <category index="000375" name="Luxemburg" type="cat">
-<test>y</test>
 <filter>n</filter>
 </category>
 <category index="000380" name="Serbien" type="cat">
 <filter>n</filter>
 </category>
 <category index="000382" name="Zante" type="cat">
-<test>y</test>
 <filter>n</filter>
 </category>
 <category index="000384" name="Sammlungen &amp; Lots" type="cat">
@@ -229,10 +236,6 @@
 <trsearch>Briefmarken Aliierte Besatzung</trsearch>
 <filter>n</filter>
 <category index="000025" name="Kontrollrat" type="cat">
-<imgclosed>empty.gif</imgclosed>
-<imgopen>empty.gif</imgopen>
-<imgselected>empty.gif</imgselected>
-<hide>y</hide>
 <filter>n</filter>
 </category>
 <category index="000027" name="Bizone" type="cat">
@@ -246,6 +249,9 @@
 <category index="000347" name="Marken &amp; Sätze" type="cat">
 <filter>n</filter>
 </category>
+<category index="000348" name="Sammlungen &amp; Lots" type="cat">
+<filter>n</filter>
+</category>
 </category>
 <category index="000349" name="Berlin und Brandenburg" type="cat">
 <filter>n</filter>
@@ -255,10 +261,16 @@
 <category index="000338" name="Mecklenburg-Vorpommern" type="cat">
 <filter>n</filter>
 </category>
+<category index="000339" name="Bundesland Sachsen" type="cat">
+<filter>n</filter>
+</category>
 <category index="000340" name="Ost-Sachsen" type="cat">
 <filter>n</filter>
 </category>
 <category index="000341" name="Provinz Sachsen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000343" name="West-Sachsen" type="cat">
 <filter>n</filter>
 </category>
 </category>
@@ -406,6 +418,9 @@
 <filter>n</filter>
 </category>
 <category index="000040" name="Jahrgänge" type="cat">
+<filter>n</filter>
+</category>
+<category index="000315" name="Marken &amp; Sätze" type="cat">
 <filter>n</filter>
 </category>
 </category>
@@ -922,9 +937,6 @@
 <filter>n</filter>
 </category>
 <category index="000147" name="Goldfolien 10 Jahre Euro-Bargeld" type="cat">
-<filter>n</filter>
-</category>
-<category index="000153" name="Generalgouvernement" type="cat">
 <filter>n</filter>
 </category>
 <category index="000287" name="Gold-Gedenkausgaben" type="cat">

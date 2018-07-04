@@ -21,4 +21,173 @@
 2018-06-28	14:09:16	customerimport.1 erzeugt um 12:40:43  2018-06-28	14:09:16	customerimport.6 erzeugt um 12:39:42  2018-06-28	14:09:16	directimport.1 erzeugt um 12:40:38  2018-06-28	14:09:16	directimport.6 erzeugt um 12:39:38  
 2018-06-28	14:10:15	customerimport.1 erzeugt um 12:40:43  2018-06-28	14:10:15	customerimport.6 erzeugt um 12:39:42  2018-06-28	14:10:15	directimport.1 erzeugt um 12:40:38  2018-06-28	14:10:15	directimport.6 erzeugt um 12:39:38  
 2018-06-28	17:13:23	customerimport.1 erzeugt um 16:36:13  2018-06-28	17:13:23	directimport.1 erzeugt um 12:40:38  
-2018-06-29	12:35:21	No data found to export!
+2018-06-29	12:35:21	No data found to export!2018-06-29	16:47:39	Export Starts2018-06-29	16:51:15	Export Starts2018-06-29	16:51:15	customerimport.1 erzeugt um 16:40:44  2018-06-29	16:51:15	directimport.1 erzeugt um 16:40:27  
+2018-06-29	16:56:18	Export Starts2018-06-29	16:56:18	customerimport.1 erzeugt um 16:40:44  2018-06-29	16:56:18	directimport.1 erzeugt um 16:40:27  
+Import finished!2018-07-02	12:39:57	No data found to export!2018-07-02	12:40:41	No data found to export!2018-07-02	12:40:54	Export Starts2018-07-02	12:40:54	customerimport.1 erzeugt um 09:57:37  2018-07-02	12:40:54	directimport.1 erzeugt um 09:57:32  
+2018-07-02	12:42:40	Export Starts2018-07-02	12:42:40	customerimport.1 erzeugt um 09:57:37  2018-07-02	12:42:40	directimport.1 erzeugt um 09:57:32  
+2018-07-02	12:46:00	Export Starts2018-07-02	12:46:00	customerimport.1 erzeugt um 09:57:37  2018-07-02	12:46:00	directimport.1 erzeugt um 09:57:32  
+2018-07-02	12:46:46	Export Starts2018-07-02	12:46:46	customerimport.1 erzeugt um 09:57:37  2018-07-02	12:46:46	directimport.1 erzeugt um 09:57:32  
+2018-07-02	12:47:09	Export Starts2018-07-02	12:47:09	customerimport.1 erzeugt um 09:57:37  2018-07-02	12:47:09	directimport.1 erzeugt um 09:57:32  
+Import finished!2018-07-02	12:58:14	Export Starts2018-07-02	12:58:14	customerimport.1 erzeugt um 09:57:37  2018-07-02	12:58:14	directimport.1 erzeugt um 09:57:32  
+Import finished!2018-07-02	13:00:26	Export Starts2018-07-02	13:00:26	customerimport.1 erzeugt um 09:57:37  2018-07-02	13:00:26	directimport.1 erzeugt um 09:57:32  
+Import finished!2018-07-02	13:03:42	No data found to export!2018-07-02	13:03:59	Export Starts2018-07-02	13:03:59	customerimport.1 erzeugt um 09:57:37  2018-07-02	13:03:59	directimport.1 erzeugt um 09:57:32  
+Import finished!2018-07-02	13:05:19	Export Starts2018-07-02	13:05:19	customerimport.1 erzeugt um 09:57:37  2018-07-02	13:05:19	directimport.1 erzeugt um 09:57:32  
+Import finished!2018-07-02	13:07:20	Export Starts2018-07-02	13:07:20	customerimport.1 erzeugt um 09:57:37  2018-07-02	13:07:20	directimport.1 erzeugt um 09:57:32  
+Import finished!2018-07-02	13:08:39	Export Starts2018-07-02	13:08:39	customerimport.1 erzeugt um 09:57:37  2018-07-02	13:08:39	directimport.1 erzeugt um 09:57:32  
+Import finished!2018-07-02	13:09:33	Export Starts2018-07-02	13:09:33	customerimport.1 erzeugt um 09:57:37  2018-07-02	13:09:33	directimport.1 erzeugt um 09:57:32  
+Bitte geben Sie einen Artikelnamen für 24121170 an.
+Import finished!2018-07-02	13:10:59	Export Starts2018-07-02	13:10:59	customerimport.1 erzeugt um 09:57:37  2018-07-02	13:10:59	directimport.1 erzeugt um 09:57:32  
+Bitte geben Sie einen Artikelnamen für 24121170 an.
+Import finished!2018-07-02	13:16:15	Export Starts2018-07-02	13:16:15	customerimport.1 erzeugt um 09:57:37  2018-07-02	13:16:15	directimport.1 erzeugt um 09:57:32  
+2018-07-02	13:16:15	Error while copying data!2018-07-02	13:16:32	Export Starts2018-07-02	13:16:32	customerimport.1 erzeugt um 09:57:37  2018-07-02	13:16:32	directimport.1 erzeugt um 09:57:32  
+2018-07-02	15:12:38	Export Starts2018-07-02	15:12:38	customerimport.1 erzeugt um 15:07:27  2018-07-02	15:12:38	directimport.1 erzeugt um 15:07:22  
+2018-07-02	15:15:53	Export Starts2018-07-02	15:15:53	customerimport.1 erzeugt um 15:07:27  2018-07-02	15:15:53	directimport.1 erzeugt um 15:07:22  
+2018-07-02	15:24:28	Export Starts2018-07-02	15:24:28	customerimport.1 erzeugt um 15:07:27  2018-07-02	15:24:28	directimport.1 erzeugt um 15:07:22  
+2018-07-02	15:25:17	Export Starts2018-07-02	15:25:17	customerimport.1 erzeugt um 15:07:27  2018-07-02	15:25:17	directimport.1 erzeugt um 15:07:22  
+2018-07-02	15:26:53	Export Starts2018-07-02	15:26:53	customerimport.1 erzeugt um 15:07:27  2018-07-02	15:26:53	directimport.1 erzeugt um 15:07:22  
+2018-07-02	15:34:18	Export Starts2018-07-02	15:34:18	customerimport.1 erzeugt um 15:07:27  2018-07-02	15:34:18	directimport.1 erzeugt um 15:07:22  
+2018-07-02	15:46:56	Export Starts2018-07-02	15:46:56	customerimport.1 erzeugt um 15:07:27  2018-07-02	15:46:56	directimport.1 erzeugt um 15:07:22
+2018-07-03	10:24:35	Export Starts	2018-07-03	10:24:35	customerimport.1 erzeugt um 09:37:12  2018-07-03	10:24:35	directimport.1 erzeugt um 09:37:08  
+2018-07-03	10:24:35	This Export is not for Primus SHOP! May be for another SHOP, because no file exists!
+2018-07-03	15:57:17	Export Starts	
+2018-07-03	15:57:17	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	15:57:17	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:00:19	Export Starts	
+2018-07-03	16:00:19	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:00:19	directimport.1 erzeugt um 15:43:18  
+
+Bitte geben Sie einen Artikelnamen für 1591.077 an.
+
+Import finished!.<br>
+2018-07-03	16:01:10	Export Starts	
+2018-07-03	16:01:10	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:01:10	directimport.1 erzeugt um 15:43:18  
+
+Bitte geben Sie einen Artikelnamen für 1591.077 an.
+
+Import finished!.<br>
+2018-07-03	16:05:22	Export Starts	
+2018-07-03	16:05:22	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:05:22	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:06:20	Export Starts	
+2018-07-03	16:06:20	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:06:20	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:07:07	Export Starts	
+2018-07-03	16:07:07	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:07:07	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:07:50	Export Starts	
+2018-07-03	16:07:50	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:07:50	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:08:35	Export Starts	
+2018-07-03	16:08:35	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:08:35	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:14:01	Export Starts	
+2018-07-03	16:14:01	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:14:01	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:14:21	Export Starts	
+2018-07-03	16:14:21	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:14:21	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:19:36	Export Starts	
+2018-07-03	16:19:36	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:19:36	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:20:22	Export Starts	
+2018-07-03	16:20:22	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:20:22	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:20:44	Export Starts	
+2018-07-03	16:20:44	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:20:44	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:27:51	Export Starts	
+2018-07-03	16:27:51	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:27:51	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:29:09	Export Starts	
+2018-07-03	16:29:09	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:29:09	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:30:11	Export Starts	
+2018-07-03	16:30:11	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:30:11	directimport.1 erzeugt um 15:43:18  
+
+2018-07-03	16:32:23	Export Starts	
+2018-07-03	16:32:23	customerimport.1 erzeugt um 15:43:26  
+2018-07-03	16:32:23	directimport.1 erzeugt um 15:43:18  
+
+2018-07-04	12:26:03	Export Starts	
+2018-07-04	12:26:03	customerimport.1 erzeugt um 12:22:57  
+2018-07-04	12:26:03	directimport.1 erzeugt um 12:22:52  
+
+2018-07-04	12:27:15	Export Starts	
+2018-07-04	12:27:15	customerimport.1 erzeugt um 12:22:57  
+2018-07-04	12:27:15	directimport.1 erzeugt um 12:22:52  
+
+2018-07-04	12:33:47	Export Starts	
+2018-07-04	12:33:47	customerimport.1 erzeugt um 12:22:57  
+2018-07-04	12:33:47	directimport.1 erzeugt um 12:22:52  
+
+2018-07-04	12:35:36	Export Starts	
+2018-07-04	12:35:36	customerimport.1 erzeugt um 12:22:57  
+2018-07-04	12:35:36	directimport.1 erzeugt um 12:22:52  
+
+2018-07-04	12:37:03	Export Starts	
+2018-07-04	12:37:03	customerimport.1 erzeugt um 12:22:57  
+2018-07-04	12:37:03	directimport.1 erzeugt um 12:22:52  
+
+2018-07-04	12:42:24	Export Starts	
+2018-07-04	12:42:24	customerimport.1 erzeugt um 12:22:57  
+2018-07-04	12:42:24	directimport.1 erzeugt um 12:22:52  
+
+2018-07-04	12:49:29	Export Starts	
+2018-07-04	12:49:29	customerimport.1 erzeugt um 12:40:55  
+2018-07-04	12:49:29	directimport.1 erzeugt um 12:40:49  
+
+2018-07-04	12:54:47	Export Starts	
+2018-07-04	12:54:47	customerimport.1 erzeugt um 12:40:55  
+2018-07-04	12:54:47	directimport.1 erzeugt um 12:40:49  
+
+2018-07-04	12:55:46	Export Starts	
+2018-07-04	12:55:46	customerimport.1 erzeugt um 12:40:55  
+2018-07-04	12:55:46	directimport.1 erzeugt um 12:40:49  
+
+2018-07-04	13:03:06	Export Starts	
+2018-07-04	13:03:06	customerimport.1 erzeugt um 12:40:55  
+2018-07-04	13:03:06	directimport.1 erzeugt um 12:40:49  
+
+2018-07-04	14:40:44	No data found to export!
+2018-07-04	16:35:30	No data found to export!
+2018-07-04	16:35:55	No data found to export!
+2018-07-04	16:36:30	No data found to export!
+2018-07-04	16:36:39	Export Starts	
+2018-07-04	16:36:39	customerimport.1 erzeugt um 15:31:02  
+2018-07-04	16:36:39	directimport.1 erzeugt um 15:30:50  
+
+2018-07-04	16:44:17	Export Starts	
+2018-07-04	16:44:17	customerimport.1 erzeugt um 15:31:02  
+2018-07-04	16:44:17	directimport.1 erzeugt um 15:30:50  
+
+2018-07-04	16:47:44	Export Starts	
+2018-07-04	16:47:44	customerimport.1 erzeugt um 15:31:02  
+2018-07-04	16:47:44	directimport.1 erzeugt um 15:30:50  
+
+2018-07-04	16:51:05	Export Starts	
+2018-07-04	16:51:05	customerimport.1 erzeugt um 15:31:02  
+2018-07-04	16:51:05	directimport.1 erzeugt um 15:30:50  
+
+2018-07-04	16:54:49	Export Starts	
+2018-07-04	16:54:49	customerimport.1 erzeugt um 15:31:02  
+2018-07-04	16:54:49	directimport.1 erzeugt um 15:30:50  
+
+2018-07-04	17:20:01	Export Starts	
+2018-07-04	17:20:01	customerimport.1 erzeugt um 15:31:02  
+2018-07-04	17:20:01	directimport.1 erzeugt um 15:30:50  
+

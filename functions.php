@@ -23,6 +23,8 @@ function full_copy( $source, $target ) {
 }
 
 
+include 'shopwareapi.php';
+
 class exportArtikelData {
     
     private $_date;
@@ -120,6 +122,8 @@ class exportArtikelData {
 
         // $file_name = 'import.default_article_in_stock.csv';
 
+        global $date_dir;
+
         $file_name = $this->getEmptyTableForArtikel(3);
 
         $file_path = 'Export/'.date('d-m').'/'.$file_name;
@@ -128,7 +132,7 @@ class exportArtikelData {
 
         $test = fgetcsv($handle, '1024', ';');
 
-        $data_path = 'Data/directimport.1/amountupdate.csv';
+        $data_path = $date_dir.'/directimport.1/amountupdate.csv';
 
         $content = fopen($data_path, 'r');
 
@@ -154,6 +158,8 @@ class exportArtikelData {
 
     public function getImageMinimal(){
 
+        global $date_dir;
+
         // $operation = $this->getEmptyTableForArtikel(4);
 
         // $file_name = 'default_article_images_minimal.csv';
@@ -166,10 +172,10 @@ class exportArtikelData {
 
         $test = fgetcsv($handle, '1024', ';');
 
-        $data_path = 'Data/directimport.1/01-aa/wpupdate.csv';
+        $data_path = $date_dir.'/directimport.1/01-aa/wpupdate.csv';
         
         if(!file_exists($data_path)){
-            $data_path = 'Data/directimport.1/01-aa/wpcomplete.csv';                
+            $data_path = $date_dir.'/directimport.1/01-aa/wpcomplete.csv';                
         }
 
         $content = fopen($data_path, 'r');
@@ -190,11 +196,20 @@ class exportArtikelData {
         // if(in_array($row[0], $artikel_database_array)){
                 // $web_path = 'http://testshop2.muenzpreisvergleich.de/artikelbilder/gross/';
                 $web_path = 'https://www.primus-muenzen.com/$WS/service-center/websale8_shop-service-center/produkte/medien/bilder/gross/';
+
+                $shopware_path = 'http://1-demo-2018.muenzpreis.de/media/image/';
+
                 $large_image = $web_path.$row[65];
                 $bild_gross_1 = $web_path.$row[69];
                 $bild_gross_2 = $web_path.$row[73];
                 $bild_gross_3 = $web_path.$row[77];
                 $bild_gross_4 = $web_path.$row[81];
+
+                $sw_large_image = $shopware_path.$row[65];
+                $sw_bild_gross_1 = $shopware_path.$row[69];
+                $sw_bild_gross_2 = $shopware_path.$row[73];
+                $sw_bild_gross_3 = $shopware_path.$row[77];
+                $sw_bild_gross_4 = $shopware_path.$row[81];                
                
                 if(!empty($row[65])){
                     $input_data[1] = $large_image;
@@ -202,19 +217,23 @@ class exportArtikelData {
                     // $input_data[4] = 1;
 
                     $file_headers = @get_headers($large_image);
-                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found'){
+                    $sw_file_headers = @get_headers($sw_large_image);
+                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found' && $sw_file_headers == 'HTTP/1.1 404 Not Found'){
+                        print_r($sw_file_headers);
                         fputcsv($handle, $input_data, ';');
                     }
                 }
                 else{
-                    echo $row[0].'<br>';
+                    // echo $row[0].'<br>';
                 }
                 if(!empty($row[69])){
                     $input_data[1] = $bild_gross_1;
                     $input_data[2] = '2';
                     // $input_data[4] = 2;
                     $file_headers = @get_headers($bild_gross_1);
-                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found'){                    
+                    $sw_file_headers = @get_headers($sw_bild_gross_1);
+                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found' && $sw_file_headers == 'HTTP/1.1 404 Not Found'){                    
+                        print_r($sw_file_headers);
                         fputcsv($handle, $input_data, ';');
                     }
                 }
@@ -223,7 +242,9 @@ class exportArtikelData {
                     $input_data[2] = '3';
                     // $input_data[4] = 3;
                     $file_headers = @get_headers($bild_gross_2);
-                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found'){                    
+                    $sw_file_headers = @get_headers($sw_bild_gross_2);
+                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found' && $sw_file_headers == 'HTTP/1.1 404 Not Found'){
+                        print_r($sw_file_headers);                    
                         fputcsv($handle, $input_data, ';');
                     }
                 }
@@ -232,7 +253,9 @@ class exportArtikelData {
                     $input_data[2] = '4';
                     // $input_data[4] = 4;
                     $file_headers = @get_headers($bild_gross_3);
-                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found'){                    
+                    $sw_file_headers = @get_headers($sw_bild_gross_3);
+                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found' && $sw_file_headers == 'HTTP/1.1 404 Not Found'){                    
+                        print_r($sw_file_headers);
                         fputcsv($handle, $input_data, ';');
                     }
                 }
@@ -241,7 +264,9 @@ class exportArtikelData {
                     $input_data[2] = '5';
                     // $input_data[4] = 5;
                     $file_headers = @get_headers($bild_gross_4);
-                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found'){                    
+                    $sw_file_headers = @get_headers($sw_bild_gross_4);
+                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found' && $sw_file_headers == 'HTTP/1.1 404 Not Found'){                    
+                        print_r($sw_file_headers);
                         fputcsv($handle, $input_data, ';');
                     }
                 }
@@ -255,6 +280,9 @@ class exportArtikelData {
     }
 
     public function getImageURL(){
+
+        global $date_dir;
+        
         // $operation = $this->getEmptyTableForArtikel(2);
 
         // $file_name = 'default.articles.imageURLs.csv';
@@ -267,10 +295,10 @@ class exportArtikelData {
 
         $test = fgetcsv($handle, '1024', ';');
 
-        $data_path = 'Data/directimport.1/01-aa/wpupdate.csv';
+        $data_path = $date_dir.'/directimport.1/01-aa/wpupdate.csv';
         
         if(!file_exists($data_path)){
-            $data_path = 'Data/directimport.1/01-aa/wpcomplete.csv';                
+            $data_path = $date_dir.'/directimport.1/01-aa/wpcomplete.csv';                
         }
 
         $content = fopen($data_path, 'r');
@@ -375,37 +403,7 @@ class exportArtikelData {
                     // fputcsv($handle, $input_data, ';');
                 }
                 fputcsv($handle, $input_data, ';');
-        // }
-                // if(@getimagesize($large_image)){
-                //     $input_data[1] = $large_image;
-                //     $input_data[2] = 1;
-                //     $input_data[4] = 1;
-                //     fputcsv($handle, $input_data, ';');
-                // }
-                // if(@getimagesize($bild_gross_1)){
-                //     $input_data[1] = $bild_gross_1;
-                //     $input_data[2] = 1;
-                //     $input_data[4] = 2;
-                //     fputcsv($handle, $input_data, ';');
-                // }
-                // if(@getimagesize($bild_gross_2)){
-                //     $input_data[1] = $bild_gross_2;
-                //     $input_data[2] = 1;
-                //     $input_data[4] = 3;
-                //     fputcsv($handle, $input_data, ';');
-                // }
-                // if(@getimagesize($bild_gross_3)){
-                //     $input_data[1] = $bild_gross_3;
-                //     $input_data[2] = 1;
-                //     $input_data[4] = 4;
-                //     fputcsv($handle, $input_data, ';');
-                // }
-                // if(@getimagesize($bild_gross_4)){
-                //     $input_data[1] = $bild_gross_4;
-                //     $input_data[2] = 1;
-                //     $input_data[4] = 5;
-                //     fputcsv($handle, $input_data, ';');
-                // }                                
+                             
             }
             $j++;
         }
@@ -454,6 +452,9 @@ class exportArtikelData {
     }
 
     public function getCategorieData(){
+
+        global $date_dir;
+        
         // $operation = $this->getEmptyTableForArtikel(1);
 
         // $file_name = 'default.articles.categories.csv';
@@ -466,7 +467,7 @@ class exportArtikelData {
 
         $test = fgetcsv($handle, '1024', ';');
 
-        $data_path = 'Data/directimport.1/01-aa/catcomplete.csv';
+        $data_path = $date_dir.'/directimport.1/01-aa/catcomplete.csv';
 
         $content = fopen($data_path, 'r');
 
@@ -503,6 +504,8 @@ class exportArtikelData {
 
         // $file_name = 'default.articles.categories.csv';
 
+        global $date_dir;
+
         $file_name = $this->getEmptyTableForArtikel(1);
 
         $file_path = 'Export/'.date('d-m').'/'.$file_name;
@@ -511,7 +514,7 @@ class exportArtikelData {
 
         $test = fgetcsv($handle, '1024', ';');
 
-        $data_path = 'Data/directimport.1/01-aa/catcomplete.csv';
+        $data_path = $date_dir.'/directimport.1/01-aa/catcomplete.csv';
 
         $content = fopen($data_path, 'r');
 
@@ -541,9 +544,29 @@ class exportArtikelData {
         }
         fclose($handle);        
 
-    }              
+    }
+
+    public function getTheType($artikelNummer){
+
+        $client = new ApiClient(
+            //URL of shopware REST server
+            'http://1-demo-2018.muenzpreis.de/api',
+            //Username
+            'kazi.riaz.ullah',
+            //User's API-Key
+            '9u42xgVQ79FoaH7HlkdgpAn9TWr0kmmrxcgh7q9d'
+        );
+
+        ob_start();
+        $html = $client->get('articles/'.$artikelNummer.'?useNumberAsId=true');
+        ob_end_clean();
+        return gettype($html);
+    }                   
 
     public function getArtikelExportData(){
+
+        global $date_dir;
+
         // $operation = $this->getEmptyTableForArtikel(0);
 
         // $file_name = 'default.articles.complete.csv';
@@ -557,65 +580,75 @@ class exportArtikelData {
         $test = fgetcsv($handle, '1024', ';');
         
         
-        $data_path = 'Data/directimport.1/01-aa/wpupdate.csv';
-        // $data_path = 'Data/directimport.1/01-aa/wpcomplete.csv';
+        $data_path = $date_dir.'/directimport.1/01-aa/wpupdate.csv';
+        $data_path_2 = $date_dir.'/directimport.1/01-aa/wpcomplete.csv';
 
-        if(!file_exists($data_path)){
-            $data_path = 'Data/directimport.1/01-aa/wpcomplete.csv';                
+        // Check if none of the file exists - may be this export is for another shop
+        if(!file_exists($data_path) && !file_exists($data_path_2)){
+            die('This Export is not for Primus! May be for another SHOP because no file exists!');
+        }
+
+        if(!file_exists($data_path)){        
+            $data_path = $date_dir.'/directimport.1/01-aa/wpcomplete.csv';
+            $type = null;
+            
         }        
 
         $content = fopen($data_path, 'r');
 
-        include 'available_articles_in_shopware.php';
+        // include 'available_articles_in_shopware.php';
 
         $new_article_array = [];
 
         $j=0;
 
         while (($row = fgetcsv($content, 0, "\t")) != FALSE) {
-            if($j!=0){
+
+            if($j!=0){                
+
+                if($this->getTheType($row[0]) == null){
+                    array_push($new_article_array, $row[0]);
+                }    
+
+                    $number_of_items = 71;
+
+                    $artikel_data = array_fill(0,$number_of_items, '');
+
+                    if($row[5] == 1){
+                        $tax = 19;    
+                    }
+                    else{
+                        $tax = 0;
+                    }
+
+                    if(strpos($row[0], '.')){
+                        $propertyGroupName = 'Briefmarken';
+                        $propertyValue = 'Land:'.$row[102].'|Jahr:'.$row[114].'|Erhaltung:'.$row[115].'|Material:'.$row[116].utf8_decode('|Gewicht/Füllmenge:').$row[117].'|Veredelung:'.$row[137].'|Michel-Nr.:'.$row[106].'|Michel Kat.-Wert.:'.$row[107];
+                    }
+                    else{
+                        $propertyGroupName = 'Münzen';
+                        $propertyValue = 'Land:'.$row[102].'|Nominal:'.$row[103].'|Jahr:'.$row[114].'|Erhaltung:'.$row[115].'|Material:'.$row[116].utf8_decode('|Gewicht / Füllmenge:').$row[117].utf8_decode('|Maße:').$row[127].'|Auflage:'.$row[136].'|Veredelung:'.$row[137].'|Nominal:'.$row[103];   
+                    }
+
+                    $artikel_data[0] = $row[0];
+                    $artikel_data[1] = $row[0];
+                    $artikel_data[2] = $row[1];
+                    $artikel_data[4] = $this->getSupplier($row[0]);
+                    $artikel_data[5] = $tax;
+                    $artikel_data[6] = number_format((float)$row[6], 2, '.', '');
+                    $artikel_data[7] = number_format((float)$row[27], 2, '.', '');
+                    $artikel_data[16] = 1;
+                    $artikel_data[18] = 1;
+                    $artikel_data[20] = str_replace("?", "", $row[11]);
+                    $artikel_data[25] = 0;
+                    $artikel_data[26] = 0;
+                    $artikel_data[39] = $row[14];
+                    $artikel_data[40] = $row[93];
+                    $artikel_data[49] = utf8_decode($propertyGroupName);
+                    $artikel_data[50] = str_replace("?", "", $propertyValue);
+
+                    fputcsv($handle, $artikel_data, ';');
                 
-                array_push($new_article_array, $row[0]);
-
-                $number_of_items = 71;
-
-                $artikel_data = array_fill(0,$number_of_items, '');
-
-                if($row[5] == 1){
-                    $tax = 19;    
-                }
-                else{
-                    $tax = 0;
-                }
-
-                if(strpos($row[0], '.')){
-                    $propertyGroupName = 'Briefmarken';
-                    $propertyValue = 'Land:'.$row[102].'|Jahr:'.$row[114].'|Erhaltung:'.$row[115].'|Material:'.$row[116].utf8_decode('|Gewicht/Füllmenge:').$row[117].'|Veredelung:'.$row[137].'|Michel-Nr.:'.$row[106].'|Michel Kat.-Wert.:'.$row[107];
-                }
-                else{
-                    $propertyGroupName = 'Münzen';
-                    $propertyValue = 'Land:'.$row[102].'|Nominal:'.$row[103].'|Jahr:'.$row[114].'|Erhaltung:'.$row[115].'|Material:'.$row[116].utf8_decode('|Gewicht / Füllmenge:').$row[117].utf8_decode('|Maße:').$row[127].'|Auflage:'.$row[136].'|Veredelung:'.$row[137].'|Nominal:'.$row[103];   
-                }
-
-                $artikel_data[0] = $row[0];
-                $artikel_data[1] = $row[0];
-                $artikel_data[2] = $row[1];
-                $artikel_data[4] = $this->getSupplier($row[0]);
-                $artikel_data[5] = $tax;
-                $artikel_data[6] = number_format((float)$row[6], 2, '.', '');
-                $artikel_data[7] = number_format((float)$row[27], 2, '.', '');
-                $artikel_data[16] = 1;
-                $artikel_data[18] = 1;
-                $artikel_data[20] = str_replace("?", "", $row[11]);
-                $artikel_data[25] = 0;
-                $artikel_data[26] = 0;
-                $artikel_data[39] = $row[14];
-                $artikel_data[40] = $row[93];
-                $artikel_data[49] = utf8_decode($propertyGroupName);
-                $artikel_data[50] = str_replace("?", "", $propertyValue);
-
-                fputcsv($handle, $artikel_data, ';');
-
             }
             $j++;
         }
@@ -623,11 +656,13 @@ class exportArtikelData {
         fclose($handle);
         fclose($content);
         // echo $j.' no of items!';
-
+        // print_r($new_article_array);die();
         $this->getCategorieDataforNewArticle($new_article_array);
     }
 
     public function getArtikelPreisUpdate(){
+
+        global $date_dir;
 
         $file_name = $this->getEmptyTableForArtikel(5);
 
@@ -638,10 +673,10 @@ class exportArtikelData {
         $test = fgetcsv($handle, '1024', ';');
         
         
-        $data_path = 'Data/directimport.1/01-aa/wpupdate.csv';
+        $data_path = $date_dir.'/directimport.1/01-aa/wpupdate.csv';
         
         if(!file_exists($data_path)){
-            $data_path = 'Data/directimport.1/01-aa/wpcomplete.csv';                
+            $data_path = $date_dir.'/directimport.1/01-aa/wpcomplete.csv';                
         }        
 
         $content = fopen($data_path, 'r');

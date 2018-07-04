@@ -32,7 +32,7 @@
                 {$rowCount = $rowCount+1}
             {/foreach}
         {/block}
-        {if $level === 1}<li class="menu--list-item item--level-{$level}"><a class="menu--list-item-link" href="{$categoryLink|escapeHtml}" style="font-style: italic;"> Weiter++</a></li>{/if}
+        {if $level === 1}<li class="menu--list-item item--level-{$level}"><a class="menu--list-item-link" href="{$categoryLink|escapeHtml}" style="font-style: italic;"> Weiter+</a></li>{/if}
     </ul>
 {/function}
 

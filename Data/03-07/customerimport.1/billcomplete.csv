@@ -1,0 +1,4 @@
+UserIndex	CustomerID	TableIndex	ExternalID	BusinessFax	BusinessPhone	City	Company	CompleteSalutation	CostCenter	CountryISO	DateOfBirth	Department	EMail2	Fax	FirstName	LastName	MobilePhone	Phone	PostOfficeBox	PostOfficeBoxZip	SalutationCode	Street1	Suffix1	Suffix2	Suffix8	Suffix10	TaxId	TitleCode	Zip
+41712	4001066032	0	1			Dresden		Sehr geehrter Herr Schulze,		DEU	08.03.1969				Ulf	Schulze		03514964948			01	Am See 13 /0705							01067
+161837	4007052794	0	1			Rathenow		Sehr geehrter Herr Edelmann,		DEU	20.03.1945			03385513969	Karl-Heinz	Edelmann	01717638069	03385 513358			01	Marchwitzaweg 23							14712
+169261	4007485988	0	1			Wenden		Sehr geehrter Herr Leinberger,		DEU	16.01.1991				Robin	Leinberger					01	Fichtenstr. 14							57482
