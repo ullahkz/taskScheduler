@@ -74,6 +74,10 @@ if(file_exists($file_name)){
 	    $i++;
 	}
 
+	/***************************************
+		Check last export operation time
+	****************************************/
+
 	$last_export = 'last-export.txt';
 	$last_export_file = fopen($last_export, 'r');
 	$check_last_export_time = fgets($last_export_file);
@@ -90,6 +94,10 @@ if(file_exists($file_name)){
 		fputs($new_export_time, end($service_info));
 		fclose($new_export_time);
 	}
+
+	/***************************************
+		Check last export operation time End
+	****************************************/	
 
 	/**********************
 		Operation (2) End
