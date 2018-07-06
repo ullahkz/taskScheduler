@@ -19,6 +19,11 @@ function getTheType($artikelNummer){
 	return gettype($html);
 }
 
+function getTheCategory($artikelNummer){
+    global $client;
+    $html = $client->get('articles/'.$artikelNummer.'?useNumberAsId=true');
+}
+
 // print_r(@get_headers('http://1-demo-2018.muenzpreis.de/media/image/10133005_5.jpg'));
 
 ?>

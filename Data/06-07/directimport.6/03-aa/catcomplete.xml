@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<categories>
+<nomenucategories>
+</nomenucategories>
+<menucategories>
+<category index="000219" name="Neuheiten" type="cat">
+<imgclosed>empty.gif</imgclosed>
+<imgopen>empty.gif</imgopen>
+<imgselected>empty.gif</imgselected>
+<hide>y</hide>
+<test>y</test>
+<filter>n</filter>
+<category index="000220" name="2 Euro Münzen" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+</category>
+<category index="000236" name="Euromünzen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000237" name="Gold &amp; Silber" type="cat">
+<filter>n</filter>
+</category>
+<category index="000223" name="Deutschland" type="cat">
+<filter>n</filter>
+</category>
+<category index="000238" name="Historisch" type="cat">
+<filter>n</filter>
+</category>
+<category index="000224" name="Welt" type="cat">
+<filter>n</filter>
+</category>
+<category index="000225" name="Themen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000234" name="Geschenkideen" type="cat">
+<filter>n</filter>
+</category>
+<category index="000226" name="Zubehör" type="cat">
+<filter>n</filter>
+<category index="000227" name="Alu-Koffer, Münzboxen" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+<category index="000228" name="Alben, Hüllen" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+<category index="000229" name="Kassetten, Tableaus" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+<category index="000230" name="Münzkapseln" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+<category index="000231" name="Reinigung, Pinzetten, Waage" type="cat">
+<test>y</test>
+<filter>n</filter>
+</category>
+</category>
+</menucategories>
+</categories>

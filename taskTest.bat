@@ -1,1 +1,2 @@
-"D:\MAMP\bin\php\php7.1.5\php.exe" -f "D:\MAMP\htdocs\taskScheduler\index.php"
+"D:\xampp72\php\php.exe" -f "D:\xampp72\htdocs\dug2sw\index.php"
+timeout 60

@@ -156,6 +156,18 @@ class exportArtikelData {
         fclose($content);                
     }
 
+    public function getImageName($artikelNumber){
+        $number = $artikelNumber;
+        if(strpos($number, '.')){
+            $array = explode('.', $number);
+            $newArticleNumber = 'g'.$array[0].$array[2];
+            return $newArticleNumber;
+        }
+        else{
+            return $number;
+        }
+    }
+
     public function getImageMinimal(){
 
         global $date_dir;
@@ -186,6 +198,7 @@ class exportArtikelData {
         // include 'artikel_database_array.php';
 
         while (($row = fgetcsv($content, 0, "\t")) != FALSE) {
+
             if($j!=0){
                 $input_data = array_fill(0, 4, '');
 
@@ -210,7 +223,7 @@ class exportArtikelData {
                 $sw_bild_gross_2 = $shopware_path.$row[73];
                 $sw_bild_gross_3 = $shopware_path.$row[77];
                 $sw_bild_gross_4 = $shopware_path.$row[81];                
-               
+
                 if(!empty($row[65])){
                     $input_data[1] = $large_image;
                     $input_data[2] = 1;
@@ -218,13 +231,10 @@ class exportArtikelData {
 
                     $file_headers = @get_headers($large_image);
                     $sw_file_headers = @get_headers($sw_large_image);
-                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found' && $sw_file_headers == 'HTTP/1.1 404 Not Found'){
-                        print_r($sw_file_headers);
+
+                    if($file_headers[0] == 'HTTP/1.1 200 OK' && $sw_file_headers[0]  == 'HTTP/1.1 404 Not Found'){
                         fputcsv($handle, $input_data, ';');
                     }
-                }
-                else{
-                    // echo $row[0].'<br>';
                 }
                 if(!empty($row[69])){
                     $input_data[1] = $bild_gross_1;
@@ -232,8 +242,7 @@ class exportArtikelData {
                     // $input_data[4] = 2;
                     $file_headers = @get_headers($bild_gross_1);
                     $sw_file_headers = @get_headers($sw_bild_gross_1);
-                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found' && $sw_file_headers == 'HTTP/1.1 404 Not Found'){                    
-                        print_r($sw_file_headers);
+                    if($file_headers[0] == 'HTTP/1.1 200 OK' && $sw_file_headers[0]  == 'HTTP/1.1 404 Not Found'){                    
                         fputcsv($handle, $input_data, ';');
                     }
                 }
@@ -243,33 +252,30 @@ class exportArtikelData {
                     // $input_data[4] = 3;
                     $file_headers = @get_headers($bild_gross_2);
                     $sw_file_headers = @get_headers($sw_bild_gross_2);
-                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found' && $sw_file_headers == 'HTTP/1.1 404 Not Found'){
-                        print_r($sw_file_headers);                    
+                    if($file_headers[0] == 'HTTP/1.1 200 OK' && $sw_file_headers[0]  == 'HTTP/1.1 404 Not Found'){                    
                         fputcsv($handle, $input_data, ';');
                     }
-                }
+                }               
                 if(!empty($row[77])){
                     $input_data[1] = $bild_gross_3;
                     $input_data[2] = '4';
                     // $input_data[4] = 4;
                     $file_headers = @get_headers($bild_gross_3);
                     $sw_file_headers = @get_headers($sw_bild_gross_3);
-                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found' && $sw_file_headers == 'HTTP/1.1 404 Not Found'){                    
-                        print_r($sw_file_headers);
+                    if($file_headers[0] == 'HTTP/1.1 200 OK' && $sw_file_headers[0]  == 'HTTP/1.1 404 Not Found'){                    
                         fputcsv($handle, $input_data, ';');
                     }
-                }
+                }                
                 if(!empty($row[81])){
                     $input_data[1] = $bild_gross_4;
                     $input_data[2] = '5';
                     // $input_data[4] = 5;
                     $file_headers = @get_headers($bild_gross_4);
                     $sw_file_headers = @get_headers($sw_bild_gross_4);
-                    if($file_headers[0] !== 'HTTP/1.1 404 Not Found' && $sw_file_headers == 'HTTP/1.1 404 Not Found'){                    
-                        print_r($sw_file_headers);
+                    if($file_headers[0] == 'HTTP/1.1 200 OK' && $sw_file_headers[0]  == 'HTTP/1.1 404 Not Found'){                    
                         fputcsv($handle, $input_data, ';');
                     }
-                }
+                }               
                 // fputcsv($handle, $input_data, ';');
 
     // }                              
@@ -481,8 +487,8 @@ class exportArtikelData {
         // $list_of_article_category = [];
 
         while (($row = fgetcsv($content, 0, "\t")) != FALSE) {
-
-            if($j!=0 && !in_array($row[1], $available_artikel_in_shopware)){
+            
+            if($j!=0 && !in_array($row[0],$available_artikel_in_shopware)){
                 $input_data = [];
                 $input_data[0] = $row[1];
                 $input_data[1] = $row[1];                
@@ -493,13 +499,17 @@ class exportArtikelData {
                 // array_push($list_of_article_category, $row[0]);
                 fputcsv($handle, $input_data, ';');
             }
+            else{
+                echo "I am inside ".$row[0];
+            }
             $j++;
         }
         fclose($handle);        
 
     }
 
-    public function getCategorieDataforNewArticle($newarray){
+    public function getCategorieDataforNewArticle($newarray, $availablearray){
+
         // $operation = $this->getEmptyTableForArtikel(1);
 
         // $file_name = 'default.articles.categories.csv';
@@ -521,6 +531,7 @@ class exportArtikelData {
         // $database = $this->getCategorieDatabase();
 
         $new_articles = $newarray;
+        $available_articles = $availablearray;
 
         $j=0;
 
@@ -530,6 +541,19 @@ class exportArtikelData {
         while (($row = fgetcsv($content, 0, "\t")) != FALSE) {
 
             if($j!=0 && in_array($row[1], $new_articles)){
+                
+                $input_data = [];
+                $input_data[0] = $row[1];
+                $input_data[1] = $row[1];                
+                // $input_data[2] = $database[1][array_search($row[0], $database[0])];
+                $input_data[2] = $this->getShopwareCategoryId($row[0]);   
+                                
+                // array_push($list_of_article, $row[1]);
+                // array_push($list_of_article_category, $row[0]);
+                fputcsv($handle, $input_data, ';');
+        
+            }
+            if($j!=0 && in_array($row[1], $available_articles)){
                 $input_data = [];
                 $input_data[0] = $row[1];
                 $input_data[1] = $row[1];                
@@ -567,10 +591,6 @@ class exportArtikelData {
 
         global $date_dir;
 
-        // $operation = $this->getEmptyTableForArtikel(0);
-
-        // $file_name = 'default.articles.complete.csv';
-
         $file_name = $this->getEmptyTableForArtikel(0);
 
         $file_path = 'Export/'.date('d-m').'/'.$file_name;
@@ -600,14 +620,16 @@ class exportArtikelData {
 
         $new_article_array = [];
 
+        $available_csv_article_array = [];
+
         $j=0;
 
         while (($row = fgetcsv($content, 0, "\t")) != FALSE) {
 
-            if($j!=0){                
-
-                if($this->getTheType($row[0]) == null){
-                    array_push($new_article_array, $row[0]);
+            if($j!=0){
+                array_push($available_csv_article_array, (string)$row[0]);        
+                if($this->getTheType($row[0]) == 'NULL'){
+                    array_push($new_article_array, (string)$row[0]);
                 }    
 
                     $number_of_items = 71;
@@ -657,7 +679,7 @@ class exportArtikelData {
         fclose($content);
         // echo $j.' no of items!';
         // print_r($new_article_array);die();
-        $this->getCategorieDataforNewArticle($new_article_array);
+        $this->getCategorieDataforNewArticle($new_article_array, $available_csv_article_array);
     }
 
     public function getArtikelPreisUpdate(){
