@@ -1007,3 +1007,48 @@ Shopware Import is done!
 2018-07-06	15:13:46	No data found to export!
 2018-07-06	15:15:00	No data found to export!
 2018-07-06	15:30:00	No data found to export!
+2018-07-06	15:45:00	Export Starts	
+2018-07-06	15:45:00	customerimport.1 erzeugt um 14:39:15  
+2018-07-06	15:45:00	directimport.1 erzeugt um 14:39:08  
+
+2018-07-06	15:45:00	33 articles imported successfully
+2018-07-06	15:45:00	21 articlesInStock imported successfully
+2018-07-06	15:45:00	2 articlesImages imported successfully
+2018-07-06	15:45:00	82 articles imported successfully
+Shopware Import is done!
+2018-07-06	15:48:15	No data found to export!
+2018-07-06	15:57:51	No data found to export!
+2018-07-06	15:58:17	No data found to export!
+2018-07-06	15:59:08	No data found to export!
+2018-07-06	15:59:57	No data found to export!
+2018-07-06	16:00:26	No data found to export!
+2018-07-06	16:00:44	No data found to export!
+2018-07-06	16:02:49	No data found to export!
+2018-07-06	16:03:27	No data found to export!
+2018-07-06	16:04:00	No data found to export!
+2018-07-06	16:04:59	No data found to export!
+2018-07-06	16:05:22	No data found to export!
+2018-07-06	16:05:50	No data found to export!
+2018-07-06	16:06:16	No data found to export!
+2018-07-06	16:06:22	No data found to export!
+2018-07-06	16:06:23	No data found to export!
+2018-07-06	16:06:23	No data found to export!
+2018-07-06	16:06:24	No data found to export!
+2018-07-06	16:06:24	No data found to export!
+2018-07-06	16:06:24	No data found to export!
+2018-07-06	16:06:24	No data found to export!
+2018-07-06	16:06:24	No data found to export!
+2018-07-06	16:06:25	No data found to export!
+2018-07-06	16:06:25	No data found to export!
+2018-07-06	16:06:25	No data found to export!
+2018-07-06	16:06:25	No data found to export!
+2018-07-06	16:06:25	No data found to export!
+2018-07-06	16:06:25	No data found to export!
+2018-07-06	16:06:26	No data found to export!
+2018-07-06	16:06:26	No data found to export!
+2018-07-06	16:06:42	No data found to export!
+2018-07-06	16:07:08	No data found to export!
+2018-07-06	16:07:30	No data found to export!
+2018-07-06	16:08:53	No data found to export!
+2018-07-06	16:11:48	No data found to export!
+2018-07-06	16:12:05	No data found to export!

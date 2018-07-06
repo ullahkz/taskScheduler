@@ -49,7 +49,7 @@ if(file_exists($file_name)){
 
 	$date = date('Y-m-d'); 
 
-	$time_minus = date('H:i:s', time()-(1 * 60 * 60)); 
+	$time_minus = date('H:i:s', time()-(2 * 60 * 60)); 
 
 	$time_plus = date('H:i:s', time()); 
 
@@ -81,18 +81,28 @@ if(file_exists($file_name)){
 	$last_export = 'last-export.txt';
 	$last_export_file = fopen($last_export, 'r');
 	$check_last_export_time = fgets($last_export_file);
+	$former_time = end($service_info);
 
-	if($check_last_export_time == end($service_info)){
+	if($check_last_export_time == $former_time){
 		$flag = 0;
 		echo 'Old export Data.<br>';
 		fclose($last_export_file);
 	}
+	else if(empty($former_time)){
+		echo 'Former time is empty!';
+		$flag = 0;
+	}
 	else{
-		$flag = 1;
-		echo 'New Export Data found.<br>';
-		$new_export_time = fopen($last_export, 'w');
-		fputs($new_export_time, end($service_info));
-		fclose($new_export_time);
+		if(!empty($former_time)){
+			echo 'New export time exists. And it doesnt match with the previous time!<br>';
+			$flag = 1;
+			$new_export_time = fopen($last_export, 'w');
+			fputs($new_export_time, end($service_info));
+			fclose($new_export_time);
+		}
+		else{
+			echo 'Error!<br>';
+		}
 	}
 
 	/***************************************
