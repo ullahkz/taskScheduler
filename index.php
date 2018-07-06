@@ -294,10 +294,10 @@ if(file_exists($file_name)){
 		//     'Reply-To: kazi.riaz.ullah@gavia.com' . "\r\n" .
 		//     'X-Mailer: PHP/' . phpversion();
 
-		// mail($to, $subject, $message, $headers);
+		// mail($to, $subject, $message, $headers); 
 
 /************************
-	Email function End
+	Email function End - Need to activate in future
 *************************/   
 
 
